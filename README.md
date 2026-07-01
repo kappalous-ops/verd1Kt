@@ -1,1 +1,1 @@
-<img width="100" height="100" alt="68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f4044696b614172646e743f6e616d653d44696b614172646e74267468656d653d626f6f72752d6c657764" src="https://github.com/user-attachments/assets/2f4b98e3-beef-43b1-9732-869a53806c31" />
+<img width="315" height="100" alt="изображение" src="https://github.com/user-attachments/assets/3a7df151-88c1-404e-854e-c00cbeea7434" />
