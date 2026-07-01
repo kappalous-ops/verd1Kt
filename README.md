@@ -15,5 +15,7 @@
 
 </div>
  <div align="center">
-  <img src="https://github.com/denvercoder1/github-readme-streak-stats/raw/main/images/animated-gpu.gif" width="120" alt="GPU">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" width="500">
+  <!-- Или для GPU -->
+  <img src="https://media.giphy.com/media/3o7aDgf8zY2Z4y5XqU/giphy.gif" width="200">
 </div>
