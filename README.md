@@ -30,4 +30,3 @@
     🌸  かわいいですね〜  プログラミング大好き  毎日コード書いてるよ  🌸
   </p>
 </div>
-<img width="236" height="211" alt="images" src="https://github.com/user-attachments/assets/3e7c1f0c-5108-423a-814e-315ba0ec40bc" />
