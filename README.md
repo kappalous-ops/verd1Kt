@@ -32,5 +32,5 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="600" alt="Sakura">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="600" alt="sakura">
 </div>
