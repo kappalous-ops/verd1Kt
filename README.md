@@ -30,6 +30,7 @@
     🌸  かわいいですね〜  プログラミング大好き  毎日コード書いてるよ  🌸
   </p>
 </div>
+
 <div align="center">
-  <img src="https://i.imgur.com/8vK9pL2.gif" width="650" alt="Falling Sakura">
+  <img src="https://i.imgur.com/7vP9kLm.gif" width="700" alt="Falling Cherry Blossoms">
 </div>
