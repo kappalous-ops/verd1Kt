@@ -23,3 +23,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+
+<div align="center">
+  <p style="color:#ff69b4; font-size:18px; font-weight:bold; animation: marquee 15s linear infinite;">
+    🌸  かわいいですね〜  プログラミング大好き  毎日コード書いてるよ  🌸
+  </p>
+</div>
