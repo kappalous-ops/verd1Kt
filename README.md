@@ -2,13 +2,29 @@
 
 # 🌸 𝓥𝓮𝓻𝓭1𝓚𝓽 🌸
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB86FC&center=true&vCenter=true&width=800&lines=Anime+%2B+Code+Lover;Python+%7C+C%2B%2B+Developer;Cyberpunk+Mindset;Always+Learning+New+Things;Building+the+Future+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Anime+%2B+Code+Lover;Python+%7C+C%2B%2B+Developer;Cyberpunk+Mindset;Always+Learning+New+Things;Building+the+Future+%F0%9F%9A%80"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=40&fontColor=ffffff"/>
+<!-- АНИМЕ БАННЕР С ПОЛУГОЛОЙ ТЯНКОЙ (замени ссылку) -->
+<img src="https://i.pinimg.com/originals/8b/e4/1a/8be41a32e74e0a4a3be366a3ba4d2c3b.gif" width="600"/>
 
+<br><br>
+
+<!-- ЧАСЫ С АНИМЕ ДЕВОЧКОЙ -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/12/3b/2f/123b2f3a2b8e4f7a8b9e3f5a2b1c3d4e.gif" width="100" align="left"/>
+  <h2>🕒 АНИМЕ-ЧАСЫ</h2>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=300&lines=⏰+2026-07-01+21:42+MSK"/>
+  </p>
+  <img src="https://i.pinimg.com/originals/9f/9e/8b/9f9e8b3c2d4a5b6c7d8e9f0a1b2c3d4e.gif" width="100" align="right"/>
 </div>
+
+<br><br>
+
+<!-- RTX ПОДСВЕТКА -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=✨+RTX+ON+✨"/>
 
 ---
 
@@ -20,111 +36,3 @@ Role      : Developer in progress
 Focus     : Python • C++ • Linux • AI
 Style     : Cyberpunk / Anime
 Goal      : Become a top-tier engineer 🚀
-```
-
----
-
-# ⚡ TECH STACK
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,bash,vscode,html,css,js,react,nodejs"/>
-</p>
-
----
-
-# 📊 GITHUB STATS
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=verd1Kt&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verd1Kt&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GITHUB STREAK
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=verd1Kt&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 TROPHIES
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=verd1Kt&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# 🐍 SNAKE EATING CONTRIBUTIONS
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 💻 SETUP (RTX ZONE)
-
-<p align="center">
-
-```txt
-🖥 CPU  : Ryzen / Intel Beast Mode
-🎮 GPU  : NVIDIA RTX Series
-⚡ RAM  : 32GB+
-💾 SSD  : NVMe Ultra Fast
-⌨ IDE  : VS Code / Neovim
-🧠 OS   : Windows 11 + Linux
-```
-
-</p>
-
----
-
-# 🎮 FAVORITE GAMES
-
-- Cyberpunk 2077 🌆
-- Elden Ring ⚔
-- Minecraft ⛏
-- Counter-Strike 2 🔫
-
----
-
-# 🌸 FAVORITE ANIME
-
-- Frieren ✨
-- Solo Leveling ⚡
-- Demon Slayer 🌙
-- Jujutsu Kaisen 🔥
-
----
-
-# 🌐 CONNECT
-
-<p align="center">
-<a href="https://github.com/verd1Kt">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-# 👁 PROFILE VISITORS
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=verd1Kt&style=for-the-badge&color=blueviolet"/>
-</p>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-# 🌌 Thanks for visiting 🌌
-
-</div>
