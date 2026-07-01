@@ -15,5 +15,5 @@
 
 </div>
  <div align="center">
-  <img src="https://i.imgur.com/3b1b2fK.gif" width="180" alt="Rotating GPU">
+  <img src="https://github.com/denvercoder1/github-readme-streak-stats/raw/main/images/animated-gpu.gif" width="120" alt="GPU">
 </div>
