@@ -1,4 +1,4 @@
-<img width="236" height="211" alt="images" src="https://github.com/user-attachments/assets/1f25a9b4-6960-4904-8333-1864d818dc44" />
+
 <div align="center">
     <p>
         <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd">
