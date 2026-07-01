@@ -14,3 +14,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
+ <div align="center">
+  <img src="https://i.imgur.com/3b1b2fK.gif" width="180" alt="Rotating GPU">
+</div>
