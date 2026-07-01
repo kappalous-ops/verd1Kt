@@ -14,4 +14,4 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
- <div class="tenor-gif-embed" data-postid="21776635" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/ge-force-rtx-3080ti-ti-gpu-gif-21776635">Ge Force Rtx GIF</a>from <a href="https://tenor.com/search/ge+force-gifs">Ge Force GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <img width="350" height="200" alt="изображение" src="https://github.com/user-attachments/assets/29a6b062-6ab8-4dac-8535-57786bdab20b" />
