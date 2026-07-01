@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://vercel.app" alt="Anime Quote" />
+  <img src="https://vercel.app" alt="Anime Quote Card" />
 </p>
