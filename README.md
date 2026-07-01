@@ -32,5 +32,5 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/7vP9kLm.gif" width="700" alt="Falling Cherry Blossoms">
+  <img src="https://i.imgur.com/4vK8pLm.gif" width="700">
 </div>
