@@ -30,7 +30,3 @@
     🌸  かわいいですね〜  プログラミング大好き  毎日コード書いてるよ  🌸
   </p>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="600" alt="sakura">
-</div>
