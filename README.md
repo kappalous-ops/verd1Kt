@@ -32,5 +32,5 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/4vK8pLm.gif" width="700">
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="600" alt="Sakura">
 </div>
