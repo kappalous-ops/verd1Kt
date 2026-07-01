@@ -14,4 +14,4 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
- <img width="350" height="200" alt="изображение" src="https://github.com/user-attachments/assets/29a6b062-6ab8-4dac-8535-57786bdab20b" />
+ 
