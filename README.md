@@ -8,7 +8,7 @@
   ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝
 </pre>
 
-SYSTEMS • WEB • CODE • AUTOMATION
+
 
 <img src="https://count.getloli.com/@YOUR_USERNAME?name=YOUR_USERNAME&theme=booru-lewd">
 
