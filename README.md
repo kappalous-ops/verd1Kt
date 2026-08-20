@@ -18,16 +18,16 @@ SYSTEMS • WEB • CODE • AUTOMATION
 
 
 
-03 / TOOLCHAIN
+
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,git,github&theme=dark">
 </div>
 
-⸻
 
 
-06 / CONTRIBUTIONS
+
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -35,7 +35,7 @@ SYSTEMS • WEB • CODE • AUTOMATION
 
 
 
-⸻
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS">
