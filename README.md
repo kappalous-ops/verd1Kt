@@ -16,7 +16,7 @@ SYSTEMS • WEB • CODE • AUTOMATION
 
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,php,html,css,linux,windows,git,github&theme=dark">
+<img src="https://skillicons.dev/icons?i=cpp,python,php,html,css,linux,windows,git,github,matrix&theme=dark">
 </div>
 
 
@@ -51,8 +51,20 @@ SYSTEMS • WEB • CODE • AUTOMATION
 </div>
 
 
+<br>
+
+<div align="center">
+
+### **CONTACT**
+
+<a href="https://t.me/celonq">
+<img src="https://img.shields.io/badge/Telegram-@celonq-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+</div>
 
 
+<br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS">
