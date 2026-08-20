@@ -1,17 +1,13 @@
 <div align="center">
+██╗   ██╗███████╗██████╗ ██████╗ ██╗██╗  ██╗████████╗
+██║   ██║██╔════╝██╔══██╗██╔══██╗██║██║ ██╔╝╚══██╔══╝
+██║   ██║█████╗  ██████╔╝██║  ██║██║█████╔╝    ██║
+╚██╗ ██╔╝██╔══╝  ██╔══██╗██║  ██║██║██╔═██╗    ██║
+ ╚████╔╝ ███████╗██║  ██║██████╔╝██║██║  ██╗   ██║
+  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝
 
->_
+SYSTEMS • WEB • CODE • AUTOMATION
 
-██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗
-██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
-██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
-██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔══██╗██╔══╝  ██╔══██╗
-██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║  ██║███████╗██║  ██║
-╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-
-SYSTEMS • WEB • AUTOMATION • OPTIMIZATION
-
-<br>
 <img src="https://count.getloli.com/@YOUR_USERNAME?name=YOUR_USERNAME&theme=booru-lewd">
 </div>
 
@@ -29,14 +25,11 @@ SYSTEMS • WEB • AUTOMATION • OPTIMIZATION
 │  ├─ Servers
 │  └─ Automation
 │
-├─ $ currently
-│  ├─ building
-│  ├─ testing
-│  ├─ optimizing
-│  └─ breaking things
+├─ $ status
+│  └─ online
 │
-└─ $ status
-   └─ online
+└─ $ uptime
+   └─ always building
 
 ⸻
 
@@ -45,59 +38,45 @@ SYSTEMS • WEB • AUTOMATION • OPTIMIZATION
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,php,html,css,linux,windows,git,github&theme=dark">
 </div>
-<br>
-
-Area	Focus
-Windows	Optimization / Configuration
-Linux	Servers / Administration
-Web	HTML / CSS / PHP
-Programming	C++ / Python
-Automation	Telegram Bots / Scripts
-Infrastructure	Servers / System Setup
 
 ⸻
 
-02 / TOOLCHAIN
+02 / PROJECTS
+
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  WINDOWS OPTIMIZATION                                │
+│  └─ system configuration / performance / tweaks      │
+│                                                      │
+│  LINUX SERVERS                                       │
+│  └─ setup / configuration / administration           │
+│                                                      │
+│  TELEGRAM BOTS                                       │
+│  └─ automation / utilities / custom tools            │
+│                                                      │
+│  WEB DEVELOPMENT                                     │
+│  └─ websites / interfaces / experiments              │
+│                                                      │
+│  PERSONAL PROJECTS                                   │
+│  └─ tools / experiments / ideas                      │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+
+⸻
+
+03 / TOOLCHAIN
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,git,github&theme=dark">
 </div>
-EDITOR          Visual Studio Code
-IDE             Visual Studio
-DESIGN          Figma
-VERSION CONTROL Git
-PLATFORM        GitHub
 
 ⸻
 
-03 / PROJECTS
-
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  WINDOWS OPTIMIZATION                                        │
-│  └─ system configuration / performance / customization      │
-│                                                              │
-│  LINUX SERVERS                                                │
-│  └─ server setup / configuration / administration             │
-│                                                              │
-│  TELEGRAM BOTS                                                │
-│  └─ automation / utilities / custom bots                    │
-│                                                              │
-│  WEB PROJECTS                                                 │
-│  └─ websites / interfaces / experiments                      │
-│                                                              │
-│  PERSONAL PROJECTS                                            │
-│  └─ experiments / tools / random ideas                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-
-⸻
-
-04 / GITHUB
+04 / GITHUB STATS
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&include_all_commits=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E">
 </div>
 
 ⸻
@@ -113,7 +92,7 @@ PLATFORM        GitHub
 06 / CONTRIBUTIONS
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 ⸻
@@ -123,7 +102,7 @@ PLATFORM        GitHub
 OS
 ├── Windows
 └── Linux
-DEVELOPMENT
+LANGUAGES
 ├── C++
 ├── Python
 ├── PHP
@@ -135,12 +114,6 @@ TOOLS
 ├── Figma
 ├── Git
 └── GitHub
-INTERESTS
-├── System optimization
-├── Servers
-├── Automation
-├── Web development
-└── Operating systems
 
 ⸻
 
@@ -151,14 +124,44 @@ On branch main
 Your branch is up to date.
 nothing to commit,
 working tree clean.
-$ uptime
-still building.
+$ systemctl status
+● system-online.service
+   Active: active (running)
+
+⸻
+
+09 / 333
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://media.tenor.com/3Qf4a4h5v5AAAAAC/anime-girl.gif" width="220">
+<br>
+
+333
+
+</td>
+<td align="center">
+<img src="https://media.tenor.com/3Qf4a4h5v5AAAAAC/anime-girl.gif" width="220">
+<br>
+
+333
+
+</td>
+<td align="center">
+<img src="https://media.tenor.com/3Qf4a4h5v5AAAAAC/anime-girl.gif" width="220">
+<br>
+
+333
+
+</td>
+</tr>
+</table>
+</div>
 
 ⸻
 
 <div align="center">
-────────────────────────────────────────────────────────────
-        CODE  •  SYSTEMS  •  SERVERS  •  WEB
-────────────────────────────────────────────────────────────
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0D1117&label=VIEWS">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS">
 </div>
