@@ -11,6 +11,7 @@
 SYSTEMS • WEB • CODE • AUTOMATION
 
 <img src="https://count.getloli.com/@YOUR_USERNAME?name=YOUR_USERNAME&theme=booru-lewd">
+
 </div>
 
 
@@ -26,6 +27,20 @@ SYSTEMS • WEB • CODE • AUTOMATION
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,git,github&theme=dark">
 </div>
 
+
+<div align="center">
+
+## **DDoS / LOAD TESTING**
+
+**AUTHORIZED NETWORK STRESS TESTING**
+
+**IP-BASED LOAD TESTING • TRAFFIC ANALYSIS • NETWORK TESTING**
+
+**SERVER STRESS TESTING • PERFORMANCE TESTING • DDoS RESILIENCE**
+
+**TEST YOUR OWN INFRASTRUCTURE BEFORE REAL USERS DO.**
+
+</div>
 
 
 
