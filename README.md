@@ -26,22 +26,6 @@ SYSTEMS • WEB • CODE • AUTOMATION
 
 ⸻
 
-04 / GITHUB STATS
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E">
-</div>
-
-⸻
-
-05 / ACTIVITY
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true">
-</div>
-
-⸻
 
 06 / CONTRIBUTIONS
 
