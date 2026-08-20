@@ -33,18 +33,6 @@ SYSTEMS • WEB • CODE • AUTOMATION
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </div>
 
-⸻
-
-08 / TERMINAL
-
-$ git status
-On branch main
-Your branch is up to date.
-nothing to commit,
-working tree clean.
-$ systemctl status
-● system-online.service
-   Active: active (running)
 
 ⸻
 
