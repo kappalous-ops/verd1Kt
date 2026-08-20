@@ -35,26 +35,6 @@ SYSTEMS • WEB • CODE • AUTOMATION
 
 ⸻
 
-07 / ENVIRONMENT
-
-OS
-├── Windows
-└── Linux
-LANGUAGES
-├── C++
-├── Python
-├── PHP
-├── HTML
-└── CSS
-TOOLS
-├── VS Code
-├── Visual Studio
-├── Figma
-├── Git
-└── GitHub
-
-⸻
-
 08 / TERMINAL
 
 $ git status
