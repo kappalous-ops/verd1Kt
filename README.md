@@ -65,7 +65,3 @@
 
 
 <br>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS">
-</div>
