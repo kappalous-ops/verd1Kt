@@ -39,30 +39,7 @@ SYSTEMS • WEB • CODE • AUTOMATION
 <img src="https://skillicons.dev/icons?i=cpp,python,php,html,css,linux,windows,git,github&theme=dark">
 </div>
 
-⸻
 
-02 / PROJECTS
-
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  WINDOWS OPTIMIZATION                                │
-│  └─ system configuration / performance / tweaks      │
-│                                                      │
-│  LINUX SERVERS                                       │
-│  └─ setup / configuration / administration           │
-│                                                      │
-│  TELEGRAM BOTS                                       │
-│  └─ automation / utilities / custom tools            │
-│                                                      │
-│  WEB DEVELOPMENT                                     │
-│  └─ websites / interfaces / experiments              │
-│                                                      │
-│  PERSONAL PROJECTS                                   │
-│  └─ tools / experiments / ideas                      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-
-⸻
 
 03 / TOOLCHAIN
 
