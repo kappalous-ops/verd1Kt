@@ -34,37 +34,6 @@ SYSTEMS • WEB • CODE • AUTOMATION
 </div>
 
 
-⸻
-
-09 / 333
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://media.tenor.com/3Qf4a4h5v5AAAAAC/anime-girl.gif" width="220">
-<br>
-
-333
-
-</td>
-<td align="center">
-<img src="https://media.tenor.com/3Qf4a4h5v5AAAAAC/anime-girl.gif" width="220">
-<br>
-
-333
-
-</td>
-<td align="center">
-<img src="https://media.tenor.com/3Qf4a4h5v5AAAAAC/anime-girl.gif" width="220">
-<br>
-
-333
-
-</td>
-</tr>
-</table>
-</div>
 
 ⸻
 
