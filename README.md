@@ -11,29 +11,6 @@ SYSTEMS • WEB • CODE • AUTOMATION
 <img src="https://count.getloli.com/@YOUR_USERNAME?name=YOUR_USERNAME&theme=booru-lewd">
 </div>
 
-⸻
-
-┌──[ user@github ]──[ ~/profile ]
-│
-├─ $ whoami
-│  └─ developer
-│
-├─ $ focus
-│  ├─ Windows
-│  ├─ Linux
-│  ├─ Web
-│  ├─ Servers
-│  └─ Automation
-│
-├─ $ status
-│  └─ online
-│
-└─ $ uptime
-   └─ always building
-
-⸻
-
-01 / STACK
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,php,html,css,linux,windows,git,github&theme=dark">
