@@ -4,6 +4,16 @@
 
 ---
 
+### 👾 **WAIFU LOADING...** 👾
+
+<img src="https://i.pinimg.com/originals/3b/8a/d2/3b8ad2c7b1be2caf24321c852103598a.gif" width="120">
+<img src="https://i.pinimg.com/originals/6b/1e/4a/6b1e4a8e5f4a5f8e9b0c9e1d2a3f4b5c.gif" width="120">
+<img src="https://i.pinimg.com/originals/a1/b2/c3/d4e5f6g7h8i9j0k1l2m3.gif" width="120">
+
+*(вставь свои гифки с аниме девочками, где у них в руках цифры 1, 2, 3 или 404, 1337, 0x01)*
+
+---
+
 **██╗   ██╗███████╗██████╗ ██████╗ ██╗██╗  ██╗████████╗**  
 **██║   ██║██╔════╝██╔══██╗██╔══██╗██║██║ ██╔╝╚══██╔══╝**  
 **██║   ██║█████╗  ██████╔╝██║  ██║██║█████╔╝    ██║**  
@@ -15,16 +25,6 @@
 
 ## 🛡️ **RED TEAM ENGINEER**  
 **🕵️ Licensed Penetration Tester | DDoS Simulation Specialist**  
-
----
-
-### 🎀 **WAIFU SQUAD** 🎀
-
-<img src="https://i.pinimg.com/originals/3b/8a/d2/3b8ad2c7b1be2caf24321c852103598a.gif" width="150">
-<img src="https://i.pinimg.com/originals/6b/1e/4a/6b1e4a8e5f4a5f8e9b0c9e1d2a3f4b5c.gif" width="150">
-<img src="https://i.pinimg.com/originals/a1/b2/c3/d4e5f6g7h8i9j0k1l2m3.gif" width="150">
-
-*(вставь сюда свои гифки с аниме девочками)*
 
 ---
 
