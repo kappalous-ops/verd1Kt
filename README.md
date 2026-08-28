@@ -13,21 +13,76 @@
 
 <br>
 
-<!-- ===== ПЕРВЫЙ РЯД: ЯЗЫКИ И ОСНОВНОЕ ===== -->
+<!-- ===== WHAT IS DDoS ===== -->
+<div align="center">
+  <h2>🌐 WHAT IS DDoS?</h2>
+  
+  <blockquote>
+    <strong>D</strong>istributed <strong>D</strong>enial <strong>o</strong>f <strong>S</strong>ervice
+  </blockquote>
+
+  <p align="left" style="max-width: 800px; margin: 0 auto;">
+    <strong>DDoS</strong> is a distributed attack on network infrastructure where 
+    a massive number of requests are sent to a server simultaneously, exceeding 
+    its bandwidth capacity and causing a denial of service.
+  </p>
+
+  <br>
+
+  <h3>🎯 FOR WHAT?</h3>
+  
+  <table align="center" style="border-collapse: collapse; max-width: 700px;">
+    <tr>
+      <td style="padding: 10px; border: 1px solid #444;">✅</td>
+      <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Stress Testing</strong> — testing your own servers' resilience to high loads</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #444;">✅</td>
+      <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Security Audit</strong> — identifying weak points in infrastructure</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #444;">✅</td>
+      <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Performance Analysis</strong> — evaluating real bandwidth capacity</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #444;">✅</td>
+      <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Resilience Testing</strong> — preparing for real-world attacks</td>
+    </tr>
+  </table>
+
+  <br>
+
+  <h3>⚠️ ATTACK TYPES</h3>
+  
+  <p>
+    <code>VOLUMETRIC</code> • <code>PROTOCOL</code> • <code>APPLICATION LAYER</code> • <code>AMPLIFICATION</code> • <code>SYN FLOOD</code> • <code>UDP FLOOD</code> • <code>HTTP FLOOD</code> • <code>ICMP FLOOD</code>
+  </p>
+
+  <br>
+
+  <p>
+    <strong>🔴 IMPORTANT:</strong> All testing is performed <strong>ONLY</strong> on authorized infrastructure.<br>
+    <em>DDoS is a weapon. Use it wisely and legally.</em>
+  </p>
+</div>
+
+<br>
+
+<!-- ===== FIRST ROW: LANGUAGES & CORE ===== -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,php,html,css,linux,windows,git,github,matrix&theme=dark">
 </div>
 
 <br>
 
-<!-- ===== ВТОРОЙ РЯД: ИНСТРУМЕНТЫ (без дубликатов) ===== -->
+<!-- ===== SECOND ROW: TOOLS (no duplicates) ===== -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma&theme=dark">
 </div>
 
 <br>
 
-<!-- ===== БЛОК DDoS / LOAD TESTING ===== -->
+<!-- ===== DDoS / LOAD TESTING BLOCK ===== -->
 <div align="center">
   <h3>  DDoS / LOAD TESTING  </h3>
   <p>
@@ -40,16 +95,16 @@
 
 <br>
 
-<!-- ===== ЗМЕЙКА ===== -->
+<!-- ===== SNAKE ===== -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 <br>
 
-<!-- ===== КОНТАКТЫ В СТОЛБИК ===== -->
+<!-- ===== CONTACTS ===== -->
 <div align="center">
-  <h3>  CONTACT</h3>
+  <h3>📬 CONTACT</h3>
   
   <!-- TELEGRAM -->
   <div>
