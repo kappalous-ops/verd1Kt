@@ -1,16 +1,16 @@
-<div align="center" style="color: #b388ff; text-shadow: 0 0 20px #7c4dff;">
+<div align="center">
 
-  <!-- ===== ASCII-АРТ ===== -->
-  <pre style="color: #b388ff; text-shadow: 0 0 20px #7c4dff, 0 0 40px #4a148c; font-weight: bold; background: transparent; border: none; margin: 0;">
+  <!-- ===== ASCII-АРТ (фиолетовый через COLOR) ===== -->
+  <pre><font color="#b388ff">
 ██╗   ██╗███████╗██████╗ ██████╗ ██╗██╗  ██╗████████╗
 ██║   ██║██╔════╝██╔══██╗██╔══██╗██║██║ ██╔╝╚══██╔══╝
 ██║   ██║█████╗  ██████╔╝██║  ██║██║█████╔╝    ██║   
 ╚██╗ ██╔╝██╔══╝  ██╔══██╗██║  ██║██║██╔═██╗    ██║   
  ╚████╔╝ ███████╗██║  ██║██████╔╝██║██║  ██╗   ██║   
   ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝   
-  </pre>
+  </font></pre>
 
-  <!-- ===== СЧЁТЧИК (фиолетовый) ===== -->
+  <!-- ===== СЧЁТЧИК ===== -->
   <img src="https://count.getloli.com/@YOUR_USERNAME?name=YOUR_USERNAME&theme=booru-lewd">
 </div>
 
@@ -18,52 +18,43 @@
 
 <!-- ===== ПЕРВЫЙ РЯД: ЯЗЫКИ ===== -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,php,html,css,linux,windows,git,github,matrix&theme=dark&perline=10" 
-       style="filter: hue-rotate(270deg) saturate(1.2);">
+  <img src="https://skillicons.dev/icons?i=cpp,python,php,html,css,linux,windows,git,github,matrix&theme=dark">
 </div>
 
 <br>
 
 <!-- ===== ВТОРОЙ РЯД: ИНСТРУМЕНТЫ ===== -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,docker,react,nodejs&theme=dark&perline=6" 
-       style="filter: hue-rotate(270deg) saturate(1.2);">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,docker,react,nodejs&theme=dark">
 </div>
 
 <br>
 
-<!-- ===== БЛОК DDoS (ВЕСЬ ТЕКСТ ФИОЛЕТОВЫЙ) ===== -->
-<div align="center" style="color: #b388ff; text-shadow: 0 0 20px #7c4dff;">
-  <h3 style="color: #b388ff; text-shadow: 0 0 30px #7c4dff, 0 0 60px #4a148c; font-size: 28px;">
-    ⚡ DDoS / LOAD TESTING ⚡
-  </h3>
-  <p style="color: #ce93d8; font-size: 18px; text-shadow: 0 0 15px #7c4dff;">
-    <strong style="color: #b388ff;">✦ AUTHORIZED NETWORK STRESS TESTING ✦</strong><br>
-    <span style="color: #b39ddb;">
+<!-- ===== БЛОК DDoS (ВЕСЬ ТЕКСТ ЧЕРЕЗ COLOR) ===== -->
+<div align="center">
+  <h3><font color="#b388ff">⚡ DDoS / LOAD TESTING ⚡</font></h3>
+  <p>
+    <font color="#b388ff"><strong>✦ AUTHORIZED NETWORK STRESS TESTING ✦</strong></font><br>
+    <font color="#ce93d8">
       IP-BASED LOAD TESTING • TRAFFIC ANALYSIS • NETWORK TESTING<br>
       SERVER STRESS TESTING • PERFORMANCE TESTING • DDoS RESILIENCE
-    </span>
+    </font>
   </p>
-  <p style="color: #9575cd; font-style: italic; font-size: 20px; text-shadow: 0 0 20px #4a148c;">
-    Test your own infrastructure before real users do.
-  </p>
+  <p><font color="#9575cd" face="italic">Test your own infrastructure before real users do.</font></p>
 </div>
 
 <br>
 
-<!-- ===== ЗМЕЙКА (фиолетовая) ===== -->
+<!-- ===== ЗМЕЙКА ===== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
-       style="filter: hue-rotate(270deg) saturate(1.5) brightness(1.2);">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 <br>
 
-<!-- ===== КОНТАКТЫ (всё фиолетовое) ===== -->
-<div align="center" style="color: #b388ff; text-shadow: 0 0 20px #7c4dff;">
-  <h3 style="color: #b388ff; text-shadow: 0 0 30px #7c4dff, 0 0 60px #4a148c; font-size: 28px;">
-    📬 CONTACT
-  </h3>
+<!-- ===== КОНТАКТЫ (цветные бейджи) ===== -->
+<div align="center">
+  <h3><font color="#b388ff">📬 CONTACT</font></h3>
 
   <a href="https://t.me/celonq">
     <img src="https://img.shields.io/badge/Telegram-@celonq-7c4dff?style=for-the-badge&logo=telegram&logoColor=white&color=7c4dff&labelColor=0d0d1a">
@@ -82,11 +73,9 @@
 
 <br>
 
-<!-- ===== ДЕКОРАТИВНАЯ ЛИНИЯ (фиолетовая) ===== -->
-<div align="center" style="color: #4a148c; text-shadow: 0 0 20px #7c4dff;">
-  <span style="color: #6a1b9a;">══════════════════════════════════════</span><br>
-  <span style="color: #b388ff; text-shadow: 0 0 30px #7c4dff, 0 0 60px #4a148c; font-size: 18px; letter-spacing: 2px;">
-    ✦ powered by chaos &amp; purple ✦
-  </span><br>
-  <span style="color: #6a1b9a;">══════════════════════════════════════</span>
+<!-- ===== ДЕКОРАТИВНАЯ ЛИНИЯ ===== -->
+<div align="center">
+  <font color="#6a1b9a">══════════════════════════════════════</font><br>
+  <font color="#b388ff"><b>✦ powered by chaos &amp; purple ✦</b></font><br>
+  <font color="#6a1b9a">══════════════════════════════════════</font>
 </div>
