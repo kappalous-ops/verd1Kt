@@ -114,18 +114,6 @@
   <img src="https://skillicons.dev/icons?i=cloudflare,terraform,ansible,grafana,prometheus&theme=dark">
 </div>
 
-<br>
-
-<!-- ===== GITHUB STATS ===== -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=verdikta7&show_icons=true&theme=dark&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=verdikta7&theme=dark&hide_border=true">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verdikta7&layout=compact&theme=dark&hide_border=true">
-</div>
-
-<br>
-
 <!-- ===== DDoS / LOAD TESTING BLOCK ===== -->
 <div align="center">
   <h3>  DDoS / LOAD TESTING</h3>
