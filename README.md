@@ -15,7 +15,7 @@
 
 <!-- ===== WHAT IS DDoS ===== -->
 <div align="center">
-  <h2>🌐 WHAT IS DDoS?</h2>
+  <h2>  WHAT IS DDoS?</h2>
   
   <blockquote>
     <strong>D</strong>istributed <strong>D</strong>enial <strong>o</strong>f <strong>S</strong>ervice
@@ -29,30 +29,30 @@
 
   <br>
 
-  <h3>🎯 FOR WHAT?</h3>
+  <h3>  FOR WHAT?</h3>
   
   <table align="center" style="border-collapse: collapse; max-width: 700px;">
     <tr>
-      <td style="padding: 10px; border: 1px solid #444;">✅</td>
+      <td style="padding: 10px; border: 1px solid #444;"> </td>
       <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Stress Testing</strong> — testing your own servers' resilience to high loads</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #444;">✅</td>
+      <td style="padding: 10px; border: 1px solid #444;"> </td>
       <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Security Audit</strong> — identifying weak points in infrastructure</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #444;">✅</td>
+      <td style="padding: 10px; border: 1px solid #444;"> </td>
       <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Performance Analysis</strong> — evaluating real bandwidth capacity</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #444;">✅</td>
+      <td style="padding: 10px; border: 1px solid #444;"> </td>
       <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Resilience Testing</strong> — preparing for real-world attacks</td>
     </tr>
   </table>
 
   <br>
 
-  <h3>⚠️ ATTACK TYPES</h3>
+  <h3>  ATTACK TYPES</h3>
   
   <p>
     <code>VOLUMETRIC</code> • <code>PROTOCOL</code> • <code>APPLICATION LAYER</code> • <code>AMPLIFICATION</code> • <code>SYN FLOOD</code> • <code>UDP FLOOD</code> • <code>HTTP FLOOD</code> • <code>ICMP FLOOD</code>
@@ -61,7 +61,7 @@
   <br>
 
   <p>
-    <strong>🔴 IMPORTANT:</strong> All testing is performed <strong>ONLY</strong> on authorized infrastructure.<br>
+    <strong>  IMPORTANT:</strong> All testing is performed <strong>ONLY</strong> on authorized infrastructure.<br>
     <em>DDoS is a weapon. Use it wisely and legally.</em>
   </p>
 </div>
@@ -104,7 +104,7 @@
 
 <!-- ===== CONTACTS ===== -->
 <div align="center">
-  <h3>📬 CONTACT</h3>
+  <h3>  CONTACT</h3>
   
   <!-- TELEGRAM -->
   <div>
