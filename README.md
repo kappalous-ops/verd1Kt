@@ -1,83 +1,14 @@
 <div align="center">
   <pre>
-  ╔══════════════════════════════════════════════╗
-  ║   $ whoami                                  ║
-  ║   > verdikta7                               ║
-  ║   $ pwd                                     ║
-  ║   > /root/network/security                  ║
-  ║   $ uptime                                  ║
-  ║   > 24/7/365                                ║
-  ╚══════════════════════════════════════════════╝
+██╗   ██╗███████╗██████╗ ██████╗ ██╗██╗  ██╗████████╗
+██║   ██║██╔════╝██╔══██╗██╔══██╗██║██║ ██╔╝╚══██╔══╝
+██║   ██║█████╗  ██████╔╝██║  ██║██║█████╔╝    ██║   
+╚██╗ ██╔╝██╔══╝  ██╔══██╗██║  ██║██║██╔═██╗    ██║   
+ ╚████╔╝ ███████╗██║  ██║██████╔╝██║██║  ██╗   ██║   
+  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝
   </pre>
-</div>
 
-<br>
-
-<!-- ===== ASCII ART ===== -->
-<div align="center">
-  <pre>
-  ─────▄████▀█▄
-───▄████████████▄
-─▄█████.▼.▼.▼.▼.▼.▼▄
-▄█████▓▓▓▓▓▓▓▓▓▓▓▓▓█▄
-█████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-─█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-──█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-───██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-────██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-─────██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-──────██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-───────██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-────────██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-─────────██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-──────────██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
-───────────██▓▓▓▓▓▓▓▓▓▓▓▓▓█
-────────────██▓▓▓▓▓▓▓▓▓▓▓█
-─────────────██▓▓▓▓▓▓▓▓▓█
-──────────────██▓▓▓▓▓▓▓█
-───────────────██▓▓▓▓▓█
-────────────────██▓▓▓█
-─────────────────██▓█
-──────────────────██
-  </pre>
-</div>
-
-<br>
-
-<!-- ===== VISITOR COUNTER ===== -->
-<div align="center">
   <img src="https://count.getloli.com/@verdikta7?name=verdikta7&theme=booru-lewd">
-</div>
-
-<br>
-
-<!-- ===== HACKER STATUS ===== -->
-<div align="center">
-  <img src="https://img.shields.io/badge/👾_HACKER_MODE-ACTIVE-red?style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/🔥_FIREWALL-BYPASSED-green?style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/💀_ROOT-ACCESS_GRANTED-red?style=for-the-badge&labelColor=black">
-</div>
-
-<br>
-
-<!-- ===== WORKING HOURS ===== -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🕒_WORKING_HOURS-24/7-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/☕_COFFEE_INTAKE-UNLIMITED-brown?style=for-the-badge">
-  <img src="https://img.shields.io/badge/💻_SYSTEM_STATUS-ONLINE-brightgreen?style=for-the-badge">
 </div>
 
 <br>
@@ -141,28 +72,11 @@
 <div align="center">
   <h3>  WHO AM I</h3>
   <p>
-    ▸ <strong>System Administrator</strong> — managing servers & infrastructure<br>
-    ▸ <strong>Network Engineer</strong> — designing & maintaining networks<br>
-    ▸ <strong>DevOps</strong> — automation & CI/CD pipelines<br>
-    ▸ <strong>Infrastructure Architect</strong> — building scalable systems
+    🔹 <strong>System Administrator</strong> — managing servers & infrastructure<br>
+    🔹 <strong>Network Engineer</strong> — designing & maintaining networks<br>
+    🔹 <strong>DevOps</strong> — automation & CI/CD pipelines<br>
+    🔹 <strong>Infrastructure Architect</strong> — building scalable systems
   </p>
-</div>
-
-<br>
-
-<!-- ===== TECH STACK WITH PROGRESS BARS ===== -->
-<div align="center">
-  <h3>⚡ TECH STACK</h3>
-  
-  <table align="center" style="max-width: 600px;">
-    <tr><td align="left">Linux</td><td><progress value="90" max="100"></progress> 90%</td></tr>
-    <tr><td align="left">Python</td><td><progress value="85" max="100"></progress> 85%</td></tr>
-    <tr><td align="left">Docker</td><td><progress value="80" max="100"></progress> 80%</td></tr>
-    <tr><td align="left">Kubernetes</td><td><progress value="70" max="100"></progress> 70%</td></tr>
-    <tr><td align="left">Networking</td><td><progress value="95" max="100"></progress> 95%</td></tr>
-    <tr><td align="left">Bash</td><td><progress value="85" max="100"></progress> 85%</td></tr>
-    <tr><td align="left">Cloud (AWS/Azure)</td><td><progress value="75" max="100"></progress> 75%</td></tr>
-  </table>
 </div>
 
 <br>
@@ -193,8 +107,6 @@
   <img src="https://skillicons.dev/icons?i=cloudflare,terraform,ansible,grafana,prometheus&theme=dark">
 </div>
 
-<br>
-
 <!-- ===== DDoS / LOAD TESTING BLOCK ===== -->
 <div align="center">
   <h3>  DDoS / LOAD TESTING</h3>
@@ -204,31 +116,6 @@
     SERVER STRESS TESTING • PERFORMANCE TESTING • DDoS RESILIENCE
   </p>
   <p><em>Test your own infrastructure before real users do.</em></p>
-</div>
-
-<br>
-
-<!-- ===== GITHUB STATS ===== -->
-<div align="center">
-  <h3>📊 GITHUB STATS</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=verdikta7&show_icons=true&theme=radical&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verdikta7&layout=compact&theme=radical&hide_border=true">
-</div>
-
-<br>
-
-<!-- ===== TROPHIES ===== -->
-<div align="center">
-  <h3>🏆 ACHIEVEMENTS</h3>
-  <img src="https://github-profile-trophy.xyz/?username=verdikta7&theme=radical&no-frame=true&row=2&column=4">
-</div>
-
-<br>
-
-<!-- ===== ACTIVITY GRAPH ===== -->
-<div align="center">
-  <h3>📈 ACTIVITY GRAPH</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=verdikta7&theme=redical&hide_border=true">
 </div>
 
 <br>
@@ -283,10 +170,5 @@
     <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square">
     <img src="https://img.shields.io/badge/ROLE-SYSTEM%20ADMIN-blue?style=flat-square">
     <img src="https://img.shields.io/badge/ROLE-NETWORK%20ENGINEER-orange?style=flat-square">
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/🐧_LINUX-EXPERT-green?style=flat-square">
-    <img src="https://img.shields.io/badge/🌐_NETWORK-SECURITY_ENGINEER-red?style=flat-square">
-    <img src="https://img.shields.io/badge/☁️_CLOUD-ARCHITECT-blue?style=flat-square">
   </p>
 </div>
