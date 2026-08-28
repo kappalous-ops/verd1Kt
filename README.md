@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- ===== ASCII-АРТ (фиолетовый через COLOR) ===== -->
+  <!-- ===== ASCII-АРТ ФИОЛЕТОВЫЙ ===== -->
   <pre><font color="#b388ff">
 ██╗   ██╗███████╗██████╗ ██████╗ ██╗██╗  ██╗████████╗
 ██║   ██║██╔════╝██╔══██╗██╔══██╗██║██║ ██╔╝╚══██╔══╝
@@ -30,11 +30,11 @@
 
 <br>
 
-<!-- ===== БЛОК DDoS (ВЕСЬ ТЕКСТ ЧЕРЕЗ COLOR) ===== -->
+<!-- ===== БЛОК DDoS ===== -->
 <div align="center">
-  <h3><font color="#b388ff">⚡ DDoS / LOAD TESTING ⚡</font></h3>
+  <h3><font color="#b388ff">DDoS / LOAD TESTING</font></h3>
   <p>
-    <font color="#b388ff"><strong>✦ AUTHORIZED NETWORK STRESS TESTING ✦</strong></font><br>
+    <font color="#b388ff"><strong>AUTHORIZED NETWORK STRESS TESTING</strong></font><br>
     <font color="#ce93d8">
       IP-BASED LOAD TESTING • TRAFFIC ANALYSIS • NETWORK TESTING<br>
       SERVER STRESS TESTING • PERFORMANCE TESTING • DDoS RESILIENCE
@@ -52,9 +52,9 @@
 
 <br>
 
-<!-- ===== КОНТАКТЫ (цветные бейджи) ===== -->
+<!-- ===== КОНТАКТЫ ===== -->
 <div align="center">
-  <h3><font color="#b388ff">📬 CONTACT</font></h3>
+  <h3><font color="#b388ff">CONTACT</font></h3>
 
   <a href="https://t.me/celonq">
     <img src="https://img.shields.io/badge/Telegram-@celonq-7c4dff?style=for-the-badge&logo=telegram&logoColor=white&color=7c4dff&labelColor=0d0d1a">
@@ -76,6 +76,6 @@
 <!-- ===== ДЕКОРАТИВНАЯ ЛИНИЯ ===== -->
 <div align="center">
   <font color="#6a1b9a">══════════════════════════════════════</font><br>
-  <font color="#b388ff"><b>✦ powered by chaos &amp; purple ✦</b></font><br>
+  <font color="#b388ff"><b>powered by chaos &amp; purple</b></font><br>
   <font color="#6a1b9a">══════════════════════════════════════</font>
 </div>
