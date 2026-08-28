@@ -1,5 +1,6 @@
 <div align="center">
-  <pre>
+  <!-- ===== ASCII-АРТ С ФИОЛЕТОВОЙ ПОДСВЕТКОЙ ===== -->
+  <pre style="color: #b388ff; text-shadow: 0 0 20px #7c4dff, 0 0 40px #4a148c; font-weight: bold;">
 ██╗   ██╗███████╗██████╗ ██████╗ ██╗██╗  ██╗████████╗
 ██║   ██║██╔════╝██╔══██╗██╔══██╗██║██║ ██╔╝╚══██╔══╝
 ██║   ██║█████╗  ██████╔╝██║  ██║██║█████╔╝    ██║   
@@ -8,6 +9,7 @@
   ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝   
   </pre>
 
+  <!-- ===== СЧЁТЧИК С ФИОЛЕТОВЫМ ОТТЕНКОМ ===== -->
   <img src="https://count.getloli.com/@YOUR_USERNAME?name=YOUR_USERNAME&theme=booru-lewd">
 </div>
 
@@ -20,37 +22,65 @@
 
 <br>
 
-<!-- ===== ВТОРОЙ РЯД: ИНСТРУМЕНТЫ (без дубликатов) ===== -->
+<!-- ===== ВТОРОЙ РЯД: ИНСТРУМЕНТЫ ===== -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma&theme=dark">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,docker,react,nodejs&theme=dark">
 </div>
 
 <br>
 
-<!-- ===== БЛОК DDoS / LOAD TESTING ===== -->
+<!-- ===== БЛОК DDoS / LOAD TESTING С ФИОЛЕТОВЫМ ===== -->
 <div align="center">
-  <h3>  DDoS / LOAD TESTING  </h3>
-  <p>
-    <strong>AUTHORIZED NETWORK STRESS TESTING</strong><br>
-    IP-BASED LOAD TESTING • TRAFFIC ANALYSIS • NETWORK TESTING<br>
-    SERVER STRESS TESTING • PERFORMANCE TESTING • DDoS RESILIENCE
+  <h3 style="color: #b388ff; text-shadow: 0 0 20px #7c4dff;">
+     DDoS / LOAD TESTING 
+  </h3>
+  <p style="color: #ce93d8;">
+    <strong>✦ AUTHORIZED NETWORK STRESS TESTING ✦</strong><br>
+    <span style="color: #b39ddb;">
+      IP-BASED LOAD TESTING • TRAFFIC ANALYSIS • NETWORK TESTING<br>
+      SERVER STRESS TESTING • PERFORMANCE TESTING • DDoS RESILIENCE
+    </span>
   </p>
-  <p><em>Test your own infrastructure before real users do.</em></p>
+  <p style="color: #9575cd; font-style: italic;">
+    Test your own infrastructure before real users do.
+  </p>
 </div>
 
 <br>
 
-<!-- ===== ЗМЕЙКА ===== -->
+<!-- ===== ЗМЕЙКА С ФИОЛЕТОВЫМ ФИЛЬТРОМ ===== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
+       style="filter: hue-rotate(270deg) brightness(1.1);">
 </div>
 
 <br>
 
 <!-- ===== КОНТАКТЫ ===== -->
 <div align="center">
-  <h3>📬 CONTACT</h3>
+  <h3 style="color: #b388ff; text-shadow: 0 0 20px #7c4dff;">
+    📬 CONTACT
+  </h3>
   <a href="https://t.me/celonq">
-    <img src="https://img.shields.io/badge/Telegram-@celonq-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-@celonq-7c4dff?style=for-the-badge&logo=telegram&logoColor=white&color=7c4dff&labelColor=1a1a2e">
   </a>
+  <br><br>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-7c4dff?style=for-the-badge&logo=github&logoColor=white&color=7c4dff&labelColor=1a1a2e">
+  </a>
+  <br><br>
+  <a href="https://discord.gg/YOUR_INVITE">
+    <img src="https://img.shields.io/badge/Discord-Join-7c4dff?style=for-the-badge&logo=discord&logoColor=white&color=7c4dff&labelColor=1a1a2e">
+  </a>
+</div>
+
+<br>
+
+<!-- ===== ДЕКОРАТИВНАЯ ЛИНИЯ ===== -->
+<div align="center">
+  <span style="color: #4a148c;">══════════════════════════════════════</span><br>
+  <span style="color: #7c4dff; text-shadow: 0 0 20px #4a148c;">
+    ✦ powered by chaos &amp; purple ✦
+  </span><br>
+  <span style="color: #4a148c;">══════════════════════════════════════</span>
 </div>
