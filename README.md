@@ -54,7 +54,7 @@
   
   <!-- TELEGRAM -->
   <div>
-    <a href="https://t.me/verdikta7">
+    <a href="https://t.me/celonq">
       <img src="https://img.shields.io/badge/Telegram-@verdikta7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
   </div>
