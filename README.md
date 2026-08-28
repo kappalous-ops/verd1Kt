@@ -50,17 +50,20 @@
 
 <!-- ===== КОНТАКТЫ ===== -->
 <div align="center">
-  <h3>📬 CONTACT</h3>
-  
+  <h3> CONTACT</h3>
+
+   
   <!-- TELEGRAM -->
   <a href="https://t.me/celonq">
     <img src="https://img.shields.io/badge/Telegram-@celonq-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
+
   
   <!-- DISCORD -->
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
     <img src="https://img.shields.io/badge/Discord-@YOUR_USERNAME-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
+
   
   <!-- TIKTOK -->
   <a href="https://tiktok.com/@YOUR_USERNAME">
