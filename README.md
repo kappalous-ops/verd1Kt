@@ -8,7 +8,6 @@
   ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝   
   </pre>
 
-  <!-- ВСТАВЬ СВОЙ НИК ВМЕСТО verdikta7 -->
   <img src="https://count.getloli.com/@verdikta7?name=verdikta7&theme=booru-lewd">
 </div>
 
@@ -55,7 +54,7 @@
   <!-- TELEGRAM -->
   <div>
     <a href="https://t.me/celonq">
-      <img src="https://img.shields.io/badge/Telegram-@verdikta7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+      <img src="https://img.shields.io/badge/Telegram-@celonq-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
   </div>
   
