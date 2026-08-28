@@ -8,8 +8,8 @@
   ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝   
   </pre>
 
-  <!-- ВСТАВЬ СВОЙ НИК ВМЕСТО celonq -->
-  <img src="https://count.getloli.com/@celonq?name=celonq&theme=booru-lewd">
+  <!-- ВСТАВЬ СВОЙ НИК ВМЕСТО verdikta7 -->
+  <img src="https://count.getloli.com/@verdikta7?name=verdikta7&theme=booru-lewd">
 </div>
 
 <br>
@@ -48,25 +48,28 @@
 
 <br>
 
-<!-- ===== КОНТАКТЫ ===== -->
+<!-- ===== КОНТАКТЫ В СТОЛБИК ===== -->
 <div align="center">
-  <h3> CONTACT</h3>
-
-   
+  <h3>📬 CONTACT</h3>
+  
   <!-- TELEGRAM -->
-  <a href="https://t.me/celonq">
-    <img src="https://img.shields.io/badge/Telegram-@celonq-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-
+  <div>
+    <a href="https://t.me/verdikta7">
+      <img src="https://img.shields.io/badge/Telegram-@verdikta7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
+  </div>
   
   <!-- DISCORD -->
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-@YOUR_USERNAME-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-
+  <div>
+    <a href="https://discord.com/users/verd1ktt">
+      <img src="https://img.shields.io/badge/Discord-@verd1ktt-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+  </div>
   
   <!-- TIKTOK -->
-  <a href="https://tiktok.com/@YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/TikTok-@YOUR_USERNAME-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
+  <div>
+    <a href="https://tiktok.com/@verdikta7">
+      <img src="https://img.shields.io/badge/TikTok-@verdikta7-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+    </a>
+  </div>
 </div>
