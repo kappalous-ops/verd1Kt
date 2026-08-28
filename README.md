@@ -49,7 +49,7 @@
 
 <!-- ===== КОНТАКТЫ В СТОЛБИК ===== -->
 <div align="center">
-  <h3>📬 CONTACT</h3>
+  <h3>  CONTACT</h3>
   
   <!-- TELEGRAM -->
   <div>
