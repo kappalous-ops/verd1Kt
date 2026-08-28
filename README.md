@@ -126,13 +126,6 @@
 
 <br>
 
-<!-- ===== TROPHIES ===== -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=verdikta7&theme=darkhub&no-frame=true&row=2&column=4">
-</div>
-
-<br>
-
 <!-- ===== DDoS / LOAD TESTING BLOCK ===== -->
 <div align="center">
   <h3>  DDoS / LOAD TESTING</h3>
