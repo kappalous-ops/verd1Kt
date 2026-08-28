@@ -13,9 +13,16 @@
 
 <br>
 
+<!-- ===== VISITOR COUNTER ===== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=verdikta7&color=red&style=flat-square&label=PROFILE+VIEWS">
+</div>
+
+<br>
+
 <!-- ===== WHAT IS DDoS ===== -->
 <div align="center">
-  <h2>  WHAT IS DDoS?</h2>
+  <h2>🌐 WHAT IS DDoS?</h2>
   
   <blockquote>
     <strong>D</strong>istributed <strong>D</strong>enial <strong>o</strong>f <strong>S</strong>ervice
@@ -29,30 +36,30 @@
 
   <br>
 
-  <h3>  FOR WHAT?</h3>
+  <h3>🎯 FOR WHAT?</h3>
   
   <table align="center" style="border-collapse: collapse; max-width: 700px;">
     <tr>
-      <td style="padding: 10px; border: 1px solid #444;"> </td>
+      <td style="padding: 10px; border: 1px solid #444;">✅</td>
       <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Stress Testing</strong> — testing your own servers' resilience to high loads</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #444;"> </td>
+      <td style="padding: 10px; border: 1px solid #444;">✅</td>
       <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Security Audit</strong> — identifying weak points in infrastructure</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #444;"> </td>
+      <td style="padding: 10px; border: 1px solid #444;">✅</td>
       <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Performance Analysis</strong> — evaluating real bandwidth capacity</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #444;"> </td>
+      <td style="padding: 10px; border: 1px solid #444;">✅</td>
       <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Resilience Testing</strong> — preparing for real-world attacks</td>
     </tr>
   </table>
 
   <br>
 
-  <h3>  ATTACK TYPES</h3>
+  <h3>⚠️ ATTACK TYPES</h3>
   
   <p>
     <code>VOLUMETRIC</code> • <code>PROTOCOL</code> • <code>APPLICATION LAYER</code> • <code>AMPLIFICATION</code> • <code>SYN FLOOD</code> • <code>UDP FLOOD</code> • <code>HTTP FLOOD</code> • <code>ICMP FLOOD</code>
@@ -61,36 +68,82 @@
   <br>
 
   <p>
-    <strong>  IMPORTANT:</strong> All testing is performed <strong>ONLY</strong> on authorized infrastructure.<br>
+    <strong>🔴 IMPORTANT:</strong> All testing is performed <strong>ONLY</strong> on authorized infrastructure.<br>
     <em>DDoS is a weapon. Use it wisely and legally.</em>
   </p>
 </div>
 
 <br>
 
-<!-- ===== FIRST ROW: LANGUAGES & CORE ===== -->
+<!-- ===== WHO AM I ===== -->
+<div align="center">
+  <h3>⚡ WHO AM I</h3>
+  <p>
+    🔹 <strong>Security Researcher</strong> & Network Engineer<br>
+    🔹 <strong>Ethical Hacker</strong> — authorized penetration testing<br>
+    🔹 <strong>DevOps</strong> — infrastructure & automation<br>
+    🔹 <strong>CTF Player</strong> — cybersecurity competitions
+  </p>
+</div>
+
+<br>
+
+<!-- ===== SKILLS ROW 1: LANGUAGES & CORE ===== -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,php,html,css,linux,windows,git,github,matrix&theme=dark">
 </div>
 
 <br>
 
-<!-- ===== SECOND ROW: TOOLS (no duplicates) ===== -->
+<!-- ===== SKILLS ROW 2: TOOLS ===== -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma&theme=dark">
 </div>
 
 <br>
 
+<!-- ===== SKILLS ROW 3: DEVOPS & DATABASES ===== -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,aws,mysql,postgres,redis,mongodb&theme=dark">
+</div>
+
+<br>
+
+<!-- ===== GITHUB STATS ===== -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=verdikta7&show_icons=true&theme=dark&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=verdikta7&theme=dark&hide_border=true">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verdikta7&layout=compact&theme=dark&hide_border=true">
+</div>
+
+<br>
+
+<!-- ===== TROPHIES ===== -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=verdikta7&theme=darkhub&no-frame=true&row=2&column=4">
+</div>
+
+<br>
+
 <!-- ===== DDoS / LOAD TESTING BLOCK ===== -->
 <div align="center">
-  <h3>  DDoS / LOAD TESTING  </h3>
+  <h3>🔥 DDoS / LOAD TESTING</h3>
   <p>
     <strong>AUTHORIZED NETWORK STRESS TESTING</strong><br>
     IP-BASED LOAD TESTING • TRAFFIC ANALYSIS • NETWORK TESTING<br>
     SERVER STRESS TESTING • PERFORMANCE TESTING • DDoS RESILIENCE
   </p>
   <p><em>Test your own infrastructure before real users do.</em></p>
+</div>
+
+<br>
+
+<!-- ===== QUOTE ===== -->
+<div align="center">
+  <blockquote>
+    <em>"The only way to secure a system is to understand how to break it."</em>
+  </blockquote>
 </div>
 
 <br>
@@ -104,7 +157,7 @@
 
 <!-- ===== CONTACTS ===== -->
 <div align="center">
-  <h3>  CONTACT</h3>
+  <h3>📬 CONTACT</h3>
   
   <!-- TELEGRAM -->
   <div>
@@ -126,4 +179,18 @@
       <img src="https://img.shields.io/badge/TikTok-@verdikta7-000000?style=for-the-badge&logo=tiktok&logoColor=white">
     </a>
   </div>
+</div>
+
+<br>
+
+<!-- ===== FOOTER ===== -->
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square">
+    <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-red?style=flat-square">
+    <img src="https://img.shields.io/badge/ETHICAL-HACKER-blue?style=flat-square">
+  </p>
+  <p>
+    <sub>⚡ Always learning. Always securing. ⚡</sub>
+  </p>
 </div>
