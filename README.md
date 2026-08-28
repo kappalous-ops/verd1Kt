@@ -29,7 +29,7 @@
 
 <!-- ===== БЛОК DDoS / LOAD TESTING ===== -->
 <div align="center">
-  <h3>⚡ DDoS / LOAD TESTING ⚡</h3>
+  <h3>  DDoS / LOAD TESTING  </h3>
   <p>
     <strong>AUTHORIZED NETWORK STRESS TESTING</strong><br>
     IP-BASED LOAD TESTING • TRAFFIC ANALYSIS • NETWORK TESTING<br>
