@@ -1,60 +1,47 @@
-<div align="center">
+<!-- ===== ШАПКА (SVG-текст) ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=435&lines=VERDICT;DDoS+%2F+LOAD+TESTING;AUTHORIZED+NETWORK+STRESS" alt="Typing SVG">
+</p>
 
-  <!-- ===== ASCII-АРТ ФИОЛЕТОВЫЙ ===== -->
-  <pre><font color="#b388ff">
-██╗   ██╗███████╗██████╗ ██████╗ ██╗██╗  ██╗████████╗
-██║   ██║██╔════╝██╔══██╗██╔══██╗██║██║ ██╔╝╚══██╔══╝
-██║   ██║█████╗  ██████╔╝██║  ██║██║█████╔╝    ██║   
-╚██╗ ██╔╝██╔══╝  ██╔══██╗██║  ██║██║██╔═██╗    ██║   
- ╚████╔╝ ███████╗██║  ██║██████╔╝██║██║  ██╗   ██║   
-  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝   
-  </font></pre>
+<!-- ===== ASCII-АРТ (единственный способ — картинка) ===== -->
+<p align="center">
+  <img src="https://mugshotbot.com/?mode=dark&color=7c4dff&pattern=topography&text=VERDICT&tag=ddos" width="600" alt="ASCII ART">
+</p>
 
-  <!-- ===== СЧЁТЧИК ===== -->
+<!-- ===== СЧЁТЧИК ===== -->
+<p align="center">
   <img src="https://count.getloli.com/@YOUR_USERNAME?name=YOUR_USERNAME&theme=booru-lewd">
-</div>
+</p>
 
-<br>
-
-<!-- ===== ПЕРВЫЙ РЯД: ЯЗЫКИ ===== -->
-<div align="center">
+<!-- ===== ИКОНКИ НАВЫКОВ ===== -->
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,php,html,css,linux,windows,git,github,matrix&theme=dark">
-</div>
-
-<br>
-
-<!-- ===== ВТОРОЙ РЯД: ИНСТРУМЕНТЫ ===== -->
-<div align="center">
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,docker,react,nodejs&theme=dark">
-</div>
+</p>
 
-<br>
-
-<!-- ===== БЛОК DDoS ===== -->
+<!-- ===== БЛОК DDoS (CSS-стили работают) ===== -->
 <div align="center">
-  <h3><font color="#b388ff">DDoS / LOAD TESTING</font></h3>
-  <p>
-    <font color="#b388ff"><strong>AUTHORIZED NETWORK STRESS TESTING</strong></font><br>
-    <font color="#ce93d8">
-      IP-BASED LOAD TESTING • TRAFFIC ANALYSIS • NETWORK TESTING<br>
-      SERVER STRESS TESTING • PERFORMANCE TESTING • DDoS RESILIENCE
-    </font>
+  <h3 style="color: #b388ff;">DDoS / LOAD TESTING</h3>
+  <p style="color: #ce93d8;">
+    <strong style="color: #b388ff;">✦ AUTHORIZED NETWORK STRESS TESTING ✦</strong><br>
+    IP-BASED LOAD TESTING • TRAFFIC ANALYSIS • NETWORK TESTING<br>
+    SERVER STRESS TESTING • PERFORMANCE TESTING • DDoS RESILIENCE
   </p>
-  <p><font color="#9575cd" face="italic">Test your own infrastructure before real users do.</font></p>
+  <p style="color: #9575cd; font-style: italic;">
+    Test your own infrastructure before real users do.
+  </p>
 </div>
 
-<br>
-
-<!-- ===== ЗМЕЙКА ===== -->
-<div align="center">
+<!-- ===== ЗМЕЙКА (GitHub Actions) ===== -->
+<p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</div>
+</p>
 
-<br>
-
-<!-- ===== КОНТАКТЫ ===== -->
+<!-- ===== КОНТАКТЫ (бейджи) ===== -->
 <div align="center">
-  <h3><font color="#b388ff">CONTACT</font></h3>
+  <h3 style="color: #b388ff;">📬 CONTACT</h3>
 
   <a href="https://t.me/celonq">
     <img src="https://img.shields.io/badge/Telegram-@celonq-7c4dff?style=for-the-badge&logo=telegram&logoColor=white&color=7c4dff&labelColor=0d0d1a">
@@ -71,11 +58,9 @@
   </a>
 </div>
 
-<br>
-
-<!-- ===== ДЕКОРАТИВНАЯ ЛИНИЯ ===== -->
+<!-- ===== ФУТЕР ===== -->
 <div align="center">
-  <font color="#6a1b9a">══════════════════════════════════════</font><br>
-  <font color="#b388ff"><b>powered by chaos &amp; purple</b></font><br>
-  <font color="#6a1b9a">══════════════════════════════════════</font>
+  <p style="color: #6a1b9a;">══════════════════════════════════════</p>
+  <p style="color: #b388ff; font-weight: bold;">✦ powered by chaos &amp; purple ✦</p>
+  <p style="color: #6a1b9a;">══════════════════════════════════════</p>
 </div>
