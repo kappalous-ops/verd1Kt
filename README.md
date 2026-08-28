@@ -1,11 +1,11 @@
 <div align="center">
   <pre>
-▪▪▗   ▪▪▗▪▪▪▪▪▪▗▪▪▪▪▗ ▪▪▪▪▗ ▪▪▗▪▪▗  ▪▪▗▪▪▪▪▪▪▗
-▪▪▎   ▪▪▎▪▪▒▚▚▚▚▝▪▪▒▚▚▪▪▗▪▪▒▚▚▪▪▗▪▪▎▪▪▎ ▪▪▒▝▚▚▪▪▒▚▚▝
-▪▪▎   ▪▪▎▪▪▪▪▪▗  ▪▪▪▪▒▝▪▪▎  ▪▪▎▪▪▎▪▪▪▪▒▝    ▪▪▎   
-▚▪▪▗ ▪▪▒▝▪▪▒▚▚▝  ▪▪▒▚▚▪▪▗▪▪▎  ▪▪▎▪▪▎▪▪▒▚▪▪▗    ▪▪▎   
- ▚▪▪▪▪▒▝ ▪▪▪▪▪▪▗▪▪▎  ▪▪▎▪▪▪▪▪▒▝▪▪▎▪▪▎  ▪▪▗   ▪▪▎   
-  ▚▚▚▝  ▚▚▚▚▚▚▝▚▚▝  ▚▚▝▚▚▚▚▚▝ ▚▚▝▚▚▝  ▚▚▝   ▚▚▝   
+██╗   ██╗███████╗██████╗ ██████╗ ██╗██╗  ██╗████████╗
+██║   ██║██╔════╝██╔══██╗██╔══██╗██║██║ ██╔╝╚══██╔══╝
+██║   ██║█████╗  ██████╔╝██║  ██║██║█████╔╝    ██║   
+╚██╗ ██╔╝██╔══╝  ██╔══██╗██║  ██║██║██╔═██╗    ██║   
+ ╚████╔╝ ███████╗██║  ██║██████╔╝██║██║  ██╗   ██║   
+  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝
   </pre>
 
   <img src="https://count.getloli.com/@verdikta7?name=verdikta7&theme=booru-lewd">
@@ -170,7 +170,5 @@
     <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square">
     <img src="https://img.shields.io/badge/ROLE-SYSTEM%20ADMIN-blue?style=flat-square">
     <img src="https://img.shields.io/badge/ROLE-NETWORK%20ENGINEER-orange?style=flat-square">
-  </p>
-  <p>
   </p>
 </div>
