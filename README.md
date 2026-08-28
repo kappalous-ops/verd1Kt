@@ -15,7 +15,7 @@
 
 <!-- ===== VISITOR COUNTER ===== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=verdikta7&color=red&style=flat-square&label=PROFILE+VIEWS">
+  <img src="https://komarev.com/ghpvc/?username=verdikta7&color=blue&style=flat-square&label=PROFILE+VIEWS">
 </div>
 
 <br>
@@ -79,10 +79,10 @@
 <div align="center">
   <h3>⚡ WHO AM I</h3>
   <p>
-    🔹 <strong>Security Researcher</strong> & Network Engineer<br>
-    🔹 <strong>Ethical Hacker</strong> — authorized penetration testing<br>
-    🔹 <strong>DevOps</strong> — infrastructure & automation<br>
-    🔹 <strong>CTF Player</strong> — cybersecurity competitions
+    🔹 <strong>System Administrator</strong> — managing servers & infrastructure<br>
+    🔹 <strong>Network Engineer</strong> — designing & maintaining networks<br>
+    🔹 <strong>DevOps</strong> — automation & CI/CD pipelines<br>
+    🔹 <strong>Infrastructure Architect</strong> — building scalable systems
   </p>
 </div>
 
@@ -90,7 +90,7 @@
 
 <!-- ===== SKILLS ROW 1: LANGUAGES & CORE ===== -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,php,html,css,linux,windows,git,github,matrix&theme=dark">
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,python,php,html,css,git,github&theme=dark">
 </div>
 
 <br>
@@ -104,7 +104,14 @@
 
 <!-- ===== SKILLS ROW 3: DEVOPS & DATABASES ===== -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,aws,mysql,postgres,redis,mongodb&theme=dark">
+  <img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,aws,azure,mysql,postgres,redis,mongodb&theme=dark">
+</div>
+
+<br>
+
+<!-- ===== SKILLS ROW 4: NETWORKING ===== -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cloudflare,terraform,ansible,grafana,prometheus&theme=dark">
 </div>
 
 <br>
@@ -142,7 +149,7 @@
 <!-- ===== QUOTE ===== -->
 <div align="center">
   <blockquote>
-    <em>"The only way to secure a system is to understand how to break it."</em>
+    <em>"A system is only as strong as its weakest link."</em>
   </blockquote>
 </div>
 
@@ -187,10 +194,10 @@
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square">
-    <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-red?style=flat-square">
-    <img src="https://img.shields.io/badge/ETHICAL-HACKER-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/ROLE-SYSTEM%20ADMIN-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/ROLE-NETWORK%20ENGINEER-orange?style=flat-square">
   </p>
   <p>
-    <sub>⚡ Always learning. Always securing. ⚡</sub>
+    <sub>⚡ Keeping the internet running. One packet at a time. ⚡</sub>
   </p>
 </div>
