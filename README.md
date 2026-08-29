@@ -172,4 +172,3 @@
     <img src="https://img.shields.io/badge/ROLE-NETWORK%20ENGINEER-orange?style=flat-square">
   </p>
 </div>
- $$ \color{green}{\text{Привет! Это зеленый текст}} $$
