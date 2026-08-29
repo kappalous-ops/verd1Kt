@@ -9,8 +9,9 @@
   </pre>
 
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=600&height=40&lines=SYSTEM+ADMINISTRATOR;NETWORK+ENGINEER;DEVOPS+ARCHITECT;DDoS+RESILIENCE+EXPERT" alt="Typing SVG" />
+
+
   <img src="https://count.getloli.com/@verdikta7?name=verdikta7&theme=booru-lewd">
-  
 </div>
 
 <br>
