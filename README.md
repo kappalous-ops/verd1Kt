@@ -1,482 +1,273 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VERDICT | System Admin</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VERDICT · Admin</title>
     <style>
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
-
         body {
-            background: #0a0a1a;
-            color: #fff;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            min-height: 100vh;
+            background: #0b0e1a;
+            color: #d6eaff;
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
             display: flex;
             justify-content: center;
-            align-items: center;
-        }
-
-        .container {
-            max-width: 900px;
             padding: 40px 20px;
+        }
+        .wrap {
+            max-width: 880px;
+            width: 100%;
             text-align: center;
         }
-
-        /* ===== GRADIENT ANIMATION ===== */
-        .gradient-text {
-            background: linear-gradient(270deg, #0033cc, #0088ff, #66ccff, #ffffff, #66ccff, #0088ff, #0033cc);
-            background-size: 400% 400%;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            animation: gradientMove 8s ease infinite;
-        }
-
-        @keyframes gradientMove {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
-        }
-
-        /* ===== ASCII ART ===== */
-        .ascii-art {
+        pre {
             font-family: 'Courier New', monospace;
             font-size: 10px;
-            line-height: 1.2;
+            line-height: 1.25;
+            color: #3b8cff;
             white-space: pre;
-            color: #0088ff;
-            text-shadow: 0 0 10px rgba(0, 136, 255, 0.3);
-            margin-bottom: 20px;
             overflow-x: auto;
+            margin-bottom: 16px;
         }
-
-        .ascii-art:hover {
-            color: #66ccff;
-            text-shadow: 0 0 20px rgba(102, 204, 255, 0.5);
-            transition: all 0.5s ease;
-        }
-
-        /* ===== HEADER ===== */
         h1 {
-            font-size: 48px;
+            font-size: 46px;
             font-weight: 900;
-            margin-bottom: 10px;
+            background: linear-gradient(90deg, #1a6aff, #8ac4ff, #ffffff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
             letter-spacing: 2px;
         }
-
-        .subtitle {
+        .sub {
             font-size: 20px;
-            color: #66ccff;
+            color: #6da8ff;
             margin-bottom: 30px;
-            opacity: 0.8;
         }
-
-        /* ===== BLOCKQUOTE ===== */
-        blockquote {
-            border-left: 4px solid #0088ff;
-            padding: 15px 25px;
-            margin: 20px auto;
-            max-width: 700px;
-            background: rgba(0, 136, 255, 0.05);
-            border-radius: 8px;
-            font-size: 18px;
-            color: #aaddff;
+        .box {
+            background: rgba(20, 40, 80, 0.25);
+            border: 1px solid #2a4b8a;
+            border-radius: 14px;
+            padding: 20px 18px;
+            margin: 24px 0;
         }
-
-        blockquote strong {
-            color: #66ccff;
-        }
-
-        /* ===== TABLE ===== */
-        .info-table {
-            margin: 20px auto;
-            border-collapse: collapse;
-            max-width: 700px;
-            width: 100%;
-        }
-
-        .info-table td {
-            padding: 12px 15px;
-            border: 1px solid rgba(0, 136, 255, 0.2);
-            text-align: left;
-            color: #cceeff;
-        }
-
-        .info-table td:first-child {
-            text-align: center;
-            font-size: 20px;
-            width: 50px;
-        }
-
-        .info-table tr:hover td {
-            background: rgba(0, 136, 255, 0.05);
-            border-color: #0088ff;
-        }
-
-        /* ===== SKILLS ===== */
-        .skills-section {
-            margin: 30px 0;
-        }
-
-        .skills-section h3 {
+        .box h2 {
             font-size: 24px;
-            margin-bottom: 15px;
-            color: #66ccff;
+            color: #8ac4ff;
+            margin-bottom: 12px;
         }
-
-        .skills-row {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 10px;
-            margin: 10px 0;
+        .box p,
+        .box li {
+            color: #bdd6ff;
+            font-size: 16px;
+            line-height: 1.6;
         }
-
-        .skill-badge {
-            background: rgba(0, 136, 255, 0.1);
-            border: 1px solid rgba(0, 136, 255, 0.3);
-            padding: 6px 16px;
-            border-radius: 20px;
+        .badge {
+            display: inline-block;
+            background: #1a2d55;
+            border: 1px solid #3a6bc0;
+            padding: 4px 16px;
+            border-radius: 30px;
             font-size: 13px;
-            color: #aaddff;
-            transition: all 0.3s ease;
-            cursor: default;
+            margin: 4px;
+            color: #b0d0ff;
         }
-
-        .skill-badge:hover {
-            background: rgba(0, 136, 255, 0.2);
-            border-color: #66ccff;
+        .btn {
+            display: inline-block;
+            padding: 12px 32px;
+            border-radius: 40px;
+            font-weight: 600;
+            text-decoration: none;
             color: #fff;
-            transform: scale(1.05);
-            box-shadow: 0 0 20px rgba(0, 136, 255, 0.2);
+            margin: 6px;
+            transition: 0.2s;
+            border: 1px solid transparent;
         }
-
-        /* ===== IMAGE BADGES ===== */
+        .btn-tg {
+            background: #1f8cdb;
+        }
+        .btn-tg:hover {
+            background: #006bb3;
+        }
+        .btn-dc {
+            background: #5a6bf5;
+        }
+        .btn-dc:hover {
+            background: #3b4edb;
+        }
+        .btn-tt {
+            background: #111;
+            border-color: #888;
+        }
+        .btn-tt:hover {
+            background: #222;
+        }
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #1e3460;
+            font-size: 14px;
+            color: #5a7bb0;
+        }
         .badge-row {
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
-            gap: 10px;
-            margin: 15px 0;
+            gap: 6px 12px;
+            margin: 12px 0;
         }
-
-        .badge-row a {
+        .stat {
             display: inline-block;
-            transition: transform 0.3s ease;
-        }
-
-        .badge-row a:hover {
-            transform: scale(1.05);
-        }
-
-        /* ===== CONTACT ===== */
-        .contact-links {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 15px;
-            margin: 20px 0;
-        }
-
-        .contact-btn {
-            padding: 12px 30px;
+            background: #0e1a30;
+            padding: 4px 18px;
             border-radius: 30px;
-            font-size: 16px;
-            font-weight: 600;
-            text-decoration: none;
-            color: #fff;
-            transition: all 0.3s ease;
-            border: 2px solid transparent;
-        }
-
-        .contact-btn.telegram {
-            background: #0088cc;
-            border-color: #0088cc;
-        }
-
-        .contact-btn.telegram:hover {
-            background: transparent;
-            color: #0088cc;
-            box-shadow: 0 0 30px rgba(0, 136, 204, 0.3);
-        }
-
-        .contact-btn.discord {
-            background: #5865F2;
-            border-color: #5865F2;
-        }
-
-        .contact-btn.discord:hover {
-            background: transparent;
-            color: #5865F2;
-            box-shadow: 0 0 30px rgba(88, 101, 242, 0.3);
-        }
-
-        .contact-btn.tiktok {
-            background: #000;
-            border-color: #fff;
-        }
-
-        .contact-btn.tiktok:hover {
-            background: #fff;
-            color: #000;
-            box-shadow: 0 0 30px rgba(255, 255, 255, 0.2);
-        }
-
-        /* ===== FOOTER ===== */
-        .footer-badges {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 15px;
-            margin-top: 30px;
-            padding-top: 20px;
-            border-top: 1px solid rgba(0, 136, 255, 0.1);
-        }
-
-        .footer-badge {
-            padding: 6px 18px;
-            border-radius: 20px;
+            border: 1px solid #2a4f8a;
             font-size: 13px;
-            font-weight: 500;
-            color: #fff;
+            color: #8ab9ff;
         }
-
-        .footer-badge.active {
-            background: #00cc66;
+        .stat.green {
+            border-color: #2b8a5a;
+            color: #80dbaa;
         }
-
-        .footer-badge.admin {
-            background: #0088ff;
+        .stat.orange {
+            border-color: #b8772a;
+            color: #f0b86a;
         }
-
-        .footer-badge.engineer {
-            background: #ff8800;
-        }
-
-        /* ===== SNAKE IMAGE ===== */
-        .snake-img {
+        img.snake {
             max-width: 100%;
-            margin: 20px 0;
-            border-radius: 10px;
-            opacity: 0.8;
-            transition: opacity 0.5s ease;
+            border-radius: 12px;
+            margin: 12px 0;
+            opacity: 0.85;
         }
-
-        .snake-img:hover {
-            opacity: 1;
+        blockquote {
+            border-left: 4px solid #3a7bd5;
+            padding: 8px 20px;
+            background: #0d1a30;
+            border-radius: 8px;
+            font-style: italic;
+            color: #b0ceff;
+            margin: 16px 0;
         }
-
-        /* ===== RESPONSIVE ===== */
-        @media (max-width: 600px) {
-            h1 { font-size: 32px; }
-            .ascii-art { font-size: 6px; }
-            .contact-btn { padding: 10px 20px; font-size: 14px; }
-            .info-table td { padding: 8px 10px; font-size: 14px; }
+        table {
+            margin: 0 auto;
+            border-collapse: collapse;
+            text-align: left;
+        }
+        td {
+            padding: 8px 14px;
+            border-bottom: 1px solid #1f3460;
+        }
+        td:first-child {
+            font-size: 18px;
         }
     </style>
 </head>
 <body>
-    <div class="container">
+<div class="wrap">
 
-        <!-- ===== ASCII ART ===== -->
-        <div class="ascii-art">
+    <!-- ASCII -->
+    <pre>
 ██╗   ██╗███████╗██████╗ ██████╗ ██╗ ██████╗████████╗
 ██║   ██║██╔════╝██╔══██╗██╔══██╗██║██╔════╝╚══██╔══╝
-██║   ██║█████╗  ██████╔╝██║  ██║██║██║        ██║   
-╚██╗ ██╔╝██╔══╝  ██╔══██╗██║  ██║██║██║        ██║   
- ╚████╔╝ ███████╗██║  ██║██████╔╝██║╚██████╗   ██║   
+██║   ██║█████╗  ██████╔╝██║  ██║██║██║        ██║
+╚██╗ ██╔╝██╔══╝  ██╔══██╗██║  ██║██║██║        ██║
+ ╚████╔╝ ███████╗██║  ██║██████╔╝██║╚██████╗   ██║
   ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝   ╚═╝
-        </div>
+    </pre>
 
-        <!-- ===== TITLE ===== -->
-        <h1 class="gradient-text">VERDICT</h1>
-        <div class="subtitle">⚡ System Administrator & Network Engineer ⚡</div>
+    <h1>VERDICT</h1>
+    <div class="sub">⚡ System Admin · Network Engineer ⚡</div>
 
-        <br>
-
-        <!-- ===== WHAT IS DDoS ===== -->
-        <h2 class="gradient-text" style="font-size:28px;">▸ WHAT IS DDoS?</h2>
-        <blockquote>
-            <strong>D</strong>istributed <strong>D</strong>enial <strong>o</strong>f <strong>S</strong>ervice
-        </blockquote>
-
-        <p style="max-width:700px; margin:0 auto; color:#aaddff; font-size:16px; line-height:1.6;">
-            <strong>DDoS</strong> is a distributed attack on network infrastructure where
-            a massive number of requests are sent to a server simultaneously, exceeding
-            its bandwidth capacity and causing a denial of service.
-        </p>
-
-        <br>
-
-        <!-- ===== FOR WHAT ===== -->
-        <h3 class="gradient-text" style="font-size:22px;">▸ FOR WHAT?</h3>
-
-        <table class="info-table">
-            <tr>
-                <td>🧪</td>
-                <td><strong>Stress Testing</strong> — testing your own servers' resilience to high loads</td>
-            </tr>
-            <tr>
-                <td>🔍</td>
-                <td><strong>Security Audit</strong> — identifying weak points in infrastructure</td>
-            </tr>
-            <tr>
-                <td>📊</td>
-                <td><strong>Performance Analysis</strong> — evaluating real bandwidth capacity</td>
-            </tr>
-            <tr>
-                <td>🛡️</td>
-                <td><strong>Resilience Testing</strong> — preparing for real-world attacks</td>
-            </tr>
-        </table>
-
-        <br>
-
-        <!-- ===== ATTACK TYPES ===== -->
-        <h3 class="gradient-text" style="font-size:22px;">▸ ATTACK TYPES</h3>
-
-        <div class="skills-row">
-            <span class="skill-badge">VOLUMETRIC</span>
-            <span class="skill-badge">PROTOCOL</span>
-            <span class="skill-badge">APPLICATION LAYER</span>
-            <span class="skill-badge">AMPLIFICATION</span>
-            <span class="skill-badge">SYN FLOOD</span>
-            <span class="skill-badge">UDP FLOOD</span>
-            <span class="skill-badge">HTTP FLOOD</span>
-            <span class="skill-badge">ICMP FLOOD</span>
-        </div>
-
-        <br>
-
-        <p style="color:#8899bb; font-size:14px;">
-            <strong style="color:#ff4444;">⚠ IMPORTANT:</strong> All testing is performed <strong>ONLY</strong> on authorized infrastructure.<br>
-            <em style="color:#66ccff;">DDoS is a weapon. Use it wisely and legally.</em>
-        </p>
-
-        <br>
-
-        <!-- ===== WHO AM I ===== -->
-        <h3 class="gradient-text" style="font-size:22px;">▸ WHO AM I</h3>
-        <div style="color:#aaddff; font-size:16px; line-height:1.8;">
-            🔹 <strong>System Administrator</strong> — managing servers &amp; infrastructure<br>
-            🔹 <strong>Network Engineer</strong> — designing &amp; maintaining networks<br>
-            🔹 <strong>DevOps</strong> — automation &amp; CI/CD pipelines<br>
-            🔹 <strong>Infrastructure Architect</strong> — building scalable systems
-        </div>
-
-        <br>
-
-        <!-- ===== SKILLS ===== -->
-        <div class="skills-section">
-            <h3 class="gradient-text">▸ LANGUAGES &amp; CORE</h3>
-            <div class="skills-row">
-                <span class="skill-badge">Linux</span>
-                <span class="skill-badge">Windows</span>
-                <span class="skill-badge">Bash</span>
-                <span class="skill-badge">Python</span>
-                <span class="skill-badge">PHP</span>
-                <span class="skill-badge">HTML/CSS</span>
-                <span class="skill-badge">Git/GitHub</span>
-            </div>
-        </div>
-
-        <div class="skills-section">
-            <h3 class="gradient-text">▸ TOOLS</h3>
-            <div class="skills-row">
-                <span class="skill-badge">VS Code</span>
-                <span class="skill-badge">Visual Studio</span>
-                <span class="skill-badge">Figma</span>
-            </div>
-        </div>
-
-        <div class="skills-section">
-            <h3 class="gradient-text">▸ DEVOPS &amp; DATABASES</h3>
-            <div class="skills-row">
-                <span class="skill-badge">Nginx</span>
-                <span class="skill-badge">Docker</span>
-                <span class="skill-badge">Kubernetes</span>
-                <span class="skill-badge">AWS</span>
-                <span class="skill-badge">Azure</span>
-                <span class="skill-badge">MySQL</span>
-                <span class="skill-badge">PostgreSQL</span>
-                <span class="skill-badge">Redis</span>
-                <span class="skill-badge">MongoDB</span>
-            </div>
-        </div>
-
-        <div class="skills-section">
-            <h3 class="gradient-text">▸ NETWORKING</h3>
-            <div class="skills-row">
-                <span class="skill-badge">Cloudflare</span>
-                <span class="skill-badge">Terraform</span>
-                <span class="skill-badge">Ansible</span>
-                <span class="skill-badge">Grafana</span>
-                <span class="skill-badge">Prometheus</span>
-            </div>
-        </div>
-
-        <br>
-
-        <!-- ===== DDoS / LOAD TESTING ===== -->
-        <div class="skills-section">
-            <h3 class="gradient-text">▸ DDoS / LOAD TESTING</h3>
-            <p style="color:#aaddff; font-size:15px; max-width:700px; margin:0 auto; line-height:1.8;">
-                <strong>AUTHORIZED NETWORK STRESS TESTING</strong><br>
-                IP-BASED LOAD TESTING • TRAFFIC ANALYSIS • NETWORK TESTING<br>
-                SERVER STRESS TESTING • PERFORMANCE TESTING • DDoS RESILIENCE
-            </p>
-            <p style="color:#66ccff; font-size:14px; margin-top:5px;">
-                <em>Test your own infrastructure before real users do.</em>
-            </p>
-        </div>
-
-        <br>
-
-        <!-- ===== QUOTE ===== -->
-        <blockquote>
-            <em>"A system is only as strong as its weakest link."</em>
-        </blockquote>
-
-        <br>
-
-        <!-- ===== VISITOR COUNT ===== -->
-        <div style="margin:20px 0;">
-            <img src="https://count.getloli.com/@verdikta7?name=verdikta7&theme=booru-lewd" alt="visitors">
-        </div>
-
-        <br>
-
-        <!-- ===== SNAKE ===== -->
-        <img class="snake-img" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake">
-
-        <br>
-
-        <!-- ===== CONTACT ===== -->
-        <h3 class="gradient-text" style="font-size:22px;">▸ CONTACT</h3>
-
-        <div class="contact-links">
-            <a href="https://t.me/celonq" class="contact-btn telegram">📱 Telegram</a>
-            <a href="https://discord.com/users/verd1ktt" class="contact-btn discord">🎮 Discord</a>
-            <a href="https://tiktok.com/@verdiktweb" class="contact-btn tiktok">🎵 TikTok</a>
-        </div>
-
-        <br>
-
-        <!-- ===== FOOTER ===== -->
-        <div class="footer-badges">
-            <span class="footer-badge active">⚡ STATUS: ACTIVE</span>
-            <span class="footer-badge admin">🛠 ROLE: SYSTEM ADMIN</span>
-            <span class="footer-badge engineer">🌐 ROLE: NETWORK ENGINEER</span>
-        </div>
-
-        <p style="color:#445566; font-size:12px; margin-top:20px;">
-            © 2026 VERDICT • Built with ❤️ and ☕
-        </p>
-
+    <!-- WHAT IS DDoS -->
+    <div class="box">
+        <h2>▸ WHAT IS DDoS?</h2>
+        <blockquote><strong>D</strong>istributed <strong>D</strong>enial <strong>o</strong>f <strong>S</strong>ervice</blockquote>
+        <p>Massive flood of requests that overloads a server, causing it to become unavailable.</p>
     </div>
+
+    <!-- FOR WHAT -->
+    <div class="box">
+        <h2>▸ FOR WHAT?</h2>
+        <table>
+            <tr><td>🧪</td><td><strong>Stress Testing</strong> — check your own server limits</td></tr>
+            <tr><td>🔍</td><td><strong>Security Audit</strong> — find weak spots</td></tr>
+            <tr><td>📊</td><td><strong>Performance Analysis</strong> — measure bandwidth capacity</td></tr>
+            <tr><td>🛡️</td><td><strong>Resilience Testing</strong> — prepare for real attacks</td></tr>
+        </table>
+    </div>
+
+    <!-- ATTACK TYPES -->
+    <div class="box">
+        <h2>▸ ATTACK TYPES</h2>
+        <div class="badge-row">
+            <span class="badge">VOLUMETRIC</span>
+            <span class="badge">PROTOCOL</span>
+            <span class="badge">APPLICATION</span>
+            <span class="badge">AMPLIFICATION</span>
+            <span class="badge">SYN FLOOD</span>
+            <span class="badge">UDP FLOOD</span>
+            <span class="badge">HTTP FLOOD</span>
+            <span class="badge">ICMP FLOOD</span>
+        </div>
+        <p style="margin-top:12px; font-size:14px; color:#8899bb;">
+            ⚠ Only test infrastructure you own or have permission to test.
+        </p>
+    </div>
+
+    <!-- WHO AM I -->
+    <div class="box">
+        <h2>▸ WHO AM I</h2>
+        <p>🔹 System Administrator — servers &amp; infrastructure<br>
+        🔹 Network Engineer — networks &amp; routing<br>
+        🔹 DevOps — automation &amp; pipelines<br>
+        🔹 Infrastructure Architect — scalable systems</p>
+    </div>
+
+    <!-- SKILLS -->
+    <div class="box">
+        <h2>▸ SKILLS</h2>
+        <div class="badge-row">
+            <span class="badge">Linux</span><span class="badge">Windows</span>
+            <span class="badge">Bash</span><span class="badge">Python</span>
+            <span class="badge">PHP</span><span class="badge">HTML/CSS</span>
+            <span class="badge">Git</span><span class="badge">Docker</span>
+            <span class="badge">Kubernetes</span><span class="badge">AWS</span>
+            <span class="badge">Azure</span><span class="badge">MySQL</span>
+            <span class="badge">PostgreSQL</span><span class="badge">Redis</span>
+            <span class="badge">MongoDB</span><span class="badge">Nginx</span>
+            <span class="badge">Cloudflare</span><span class="badge">Terraform</span>
+            <span class="badge">Ansible</span><span class="badge">Grafana</span>
+            <span class="badge">Prometheus</span>
+        </div>
+    </div>
+
+    <!-- CONTACT -->
+    <div class="box" style="border-color:#3a5fa0;">
+        <h2>▸ CONTACT</h2>
+        <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+            <a href="https://t.me/celonq" class="btn btn-tg">📱 Telegram</a>
+            <a href="https://discord.com/users/verd1ktt" class="btn btn-dc">🎮 Discord</a>
+            <a href="https://tiktok.com/@verdiktweb" class="btn btn-tt">🎵 TikTok</a>
+        </div>
+    </div>
+
+    <!-- COUNTER + SNAKE -->
+    <div style="margin:20px 0;">
+        <img src="https://count.getloli.com/@verdikta7?name=verdikta7&theme=booru-lewd" alt="visitors" />
+    </div>
+    <img class="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
+    <!-- FOOTER -->
+    <div class="footer">
+        <span class="stat green">⚡ STATUS: ACTIVE</span>
+        <span class="stat">🛠 ROLE: SYSTEM ADMIN</span>
+        <span class="stat orange">🌐 ROLE: NETWORK ENGINEER</span>
+        <br><br>
+        © 2026 VERDICT
+    </div>
+
+</div>
 </body>
 </html>
