@@ -1,203 +1,176 @@
 <div align="center">
   <pre>
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-██╗  ██╗███████╗██████╗ ██████╗ ██╗██╗  ██╗████████╗    ██╗     ██╗
-██║  ██║██╔════╝██╔══██╗██╔══██╗██║██║ ██╔╝╚══██╔══╝    ██║     ██║
-███████║█████╗  ██████╔╝██████╔╝██║█████╔╝    ██║       ██║     ██║
-██╔══██║██╔══╝  ██╔══██╗██╔══██╗██║██╔═██╗    ██║       ██║     ██║
-██║  ██║███████╗██████╔╝██║  ██║██║██║  ██╗   ██║       ███████╗███████╗
-╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝   ╚═╝       ╚══════╝╚══════╝
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+██╗   ██╗███████╗██████╗ ██████╗ ██╗██╗  ██╗████████╗
+██║   ██║██╔════╝██╔══██╗██╔══██╗██║██║ ██╔╝╚══██╔══╝
+██║   ██║█████╗  ██████╔╝██║  ██║██║█████╔╝    ██║   
+╚██╗ ██╔╝██╔══╝  ██╔══██╗██║  ██║██║██╔═██╗    ██║   
+ ╚████╔╝ ███████╗██║  ██║██████╔╝██║██║  ██╗   ██║   
+  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝
   </pre>
 
-  <!-- АНИМИРОВАННАЯ СТАТИСТИКА -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=40&lines=SYSTEM+ADMINISTRATOR;NETWORK+ENGINEER;DEVOPS+ARCHITECT;DDoS+RESILIENCE+EXPERT" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=600&height=40&lines=SYSTEM+ADMINISTRATOR;NETWORK+ENGINEER;DEVOPS+ARCHITECT;DDoS+RESILIENCE+EXPERT" alt="Typing SVG" />
+  <img src="https://count.getloli.com/@verdikta7?name=verdikta7&theme=booru-lewd">
   
-  <br><br>
+</div>
 
-  <!-- СЧЁТЧИК ПОСЕТИТЕЛЕЙ (ОБНОВЛЁННЫЙ) -->
-  <img src="https://count.getloli.com/@verdikta7?name=verdikta7&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" />
-  
-  <br><br>
+<br>
 
-  <!-- ПРИВЕТСТВИЕ -->
-  <h1>⚡ HELLO, WORLD! ⚡</h1>
-  <h3><code>I break things so they don't break you.</code></h3>
+<!-- ===== WHAT IS DDoS ===== -->
+<div align="center">
+  <h2>  WHAT IS DDoS?</h2>
   
   <blockquote>
-    <strong>D</strong>istributed <strong>D</strong>enial <strong>o</strong>f <strong>S</strong>ervice &nbsp;•&nbsp; 
-    <strong>I</strong>nfrastructure <strong>A</strong>s <strong>C</strong>ode &nbsp;•&nbsp;
-    <strong>N</strong>etwork <strong>S</strong>ecurity
+    <strong>D</strong>istributed <strong>D</strong>enial <strong>o</strong>f <strong>S</strong>ervice
   </blockquote>
-</div>
 
-<br>
+  <p align="left" style="max-width: 800px; margin: 0 auto;">
+    <strong>DDoS</strong> is a distributed attack on network infrastructure where 
+    a massive number of requests are sent to a server simultaneously, exceeding 
+    its bandwidth capacity and causing a denial of service.
+  </p>
 
-<!-- ===== СТАТИСТИКА GitHub ===== -->
-<div align="center">
-  <h2>📊 GITHUB STATS</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=verdikta7&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=verdikta7&theme=radical&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" height="160" />
-  
   <br>
+
+  <h3>  FOR WHAT?</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verdikta7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="160" />
-  <img src="https://github-profile-trophy.vercel.app/?username=verdikta7&theme=radical&no-frame=true&no-bg=true&row=1&column=4&margin-w=15" height="160" />
-</div>
-
-<br>
-
-<!-- ===== СПЕЦИАЛИЗАЦИЯ ===== -->
-<div align="center">
-  <h2>🎯 CORE EXPERTISE</h2>
-
-  <table align="center" style="border-collapse: collapse; max-width: 800px; border: 1px solid #00ff88;">
+  <table align="center" style="border-collapse: collapse; max-width: 700px;">
     <tr>
-      <td style="padding: 15px; border: 1px solid #00ff88; text-align: center; width: 25%;">
-        <strong>🛡️ STRESS TESTING</strong><br>
-        <span style="font-size: 12px; color: #aaa;">Simulate 1M+ requests/sec</span>
-      </td>
-      <td style="padding: 15px; border: 1px solid #00ff88; text-align: center; width: 25%;">
-        <strong>🔍 SECURITY AUDIT</strong><br>
-        <span style="font-size: 12px; color: #aaa;">Find weak points before attackers</span>
-      </td>
-      <td style="padding: 15px; border: 1px solid #00ff88; text-align: center; width: 25%;">
-        <strong>📈 PERFORMANCE</strong><br>
-        <span style="font-size: 12px; color: #aaa;">Real bandwidth capacity analysis</span>
-      </td>
-      <td style="padding: 15px; border: 1px solid #00ff88; text-align: center; width: 25%;">
-        <strong>💪 RESILIENCE</strong><br>
-        <span style="font-size: 12px; color: #aaa;">Prepare for real-world attacks</span>
-      </td>
+      <td style="padding: 10px; border: 1px solid #444;"> </td>
+      <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Stress Testing</strong> — testing your own servers' resilience to high loads</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #444;"> </td>
+      <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Security Audit</strong> — identifying weak points in infrastructure</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #444;"> </td>
+      <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Performance Analysis</strong> — evaluating real bandwidth capacity</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #444;"> </td>
+      <td style="padding: 10px; border: 1px solid #444; text-align: left;"><strong>Resilience Testing</strong> — preparing for real-world attacks</td>
     </tr>
   </table>
-</div>
 
-<br>
+  <br>
 
-<!-- ===== АТАКИ ===== -->
-<div align="center">
-  <h2>⚔️ ATTACK VECTORS</h2>
+  <h3>  ATTACK TYPES</h3>
   
   <p>
-    <img src="https://img.shields.io/badge/VOLUMETRIC-ff6b6b?style=for-the-badge&logo=attack&logoColor=white" />
-    <img src="https://img.shields.io/badge/PROTOCOL-ffd93d?style=for-the-badge&logo=protocol&logoColor=black" />
-    <img src="https://img.shields.io/badge/APPLICATION_LAYER-6bcb77?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/AMPLIFICATION-4d96ff?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/SYN_FLOOD-ff6b6b?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/UDP_FLOOD-ffd93d?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/HTTP_FLOOD-6bcb77?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/ICMP_FLOOD-4d96ff?style=for-the-badge" />
+    <code>VOLUMETRIC</code> • <code>PROTOCOL</code> • <code>APPLICATION LAYER</code> • <code>AMPLIFICATION</code> • <code>SYN FLOOD</code> • <code>UDP FLOOD</code> • <code>HTTP FLOOD</code> • <code>ICMP FLOOD</code>
+  </p>
+
+  <br>
+
+  <p>
+    <strong>  IMPORTANT:</strong> All testing is performed <strong>ONLY</strong> on authorized infrastructure.<br>
+    <em>DDoS is a weapon. Use it wisely and legally.</em>
   </p>
 </div>
 
 <br>
 
-<!-- ===== СКИЛЛЫ (ОБНОВЛЁННЫЕ С БЭЙДЖАМИ) ===== -->
+<!-- ===== WHO AM I ===== -->
 <div align="center">
-  <h2>🧠 TECH STACK</h2>
-
-  <h3>🐧 OS & LANGUAGES</h3>
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,python,php,html,css,git,github&theme=dark" />
-
-  <h3>🛠️ TOOLS & IDE</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman,jenkins&theme=dark" />
-
-  <h3>☁️ DEVOPS & CLOUD</h3>
-  <img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,aws,azure,gcp,terraform,ansible&theme=dark" />
-
-  <h3>🗄️ DATABASES</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,elasticsearch&theme=dark" />
-
-  <h3>📊 MONITORING</h3>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,cloudflare&theme=dark" />
-</div>
-
-<br>
-
-<!-- ===== ПРОЕКТЫ / ИНСТРУМЕНТЫ ===== -->
-<div align="center">
-  <h2>🚀 TOOLS I BUILD</h2>
-  
+  <h3>  WHO AM I</h3>
   <p>
-    <code>⚡ DDoS-Simulator</code> &nbsp;•&nbsp;
-    <code>⚡ Network-Auditor</code> &nbsp;•&nbsp;
-    <code>⚡ Load-Balancer-Config</code> &nbsp;•&nbsp;
-    <code>⚡ WAF-Ruleset</code>
+    🔹 <strong>System Administrator</strong> — managing servers & infrastructure<br>
+    🔹 <strong>Network Engineer</strong> — designing & maintaining networks<br>
+    🔹 <strong>DevOps</strong> — automation & CI/CD pipelines<br>
+    🔹 <strong>Infrastructure Architect</strong> — building scalable systems
   </p>
-  
-  <p><em>Check my repositories for open-source tools →</em></p>
 </div>
 
 <br>
 
-<!-- ===== ЦИТАТА ===== -->
+<!-- ===== SKILLS ROW 1: LANGUAGES & CORE ===== -->
 <div align="center">
-  <h2>💬 QUOTE</h2>
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,python,php,html,css,git,github&theme=dark">
+</div>
+
+<br>
+
+<!-- ===== SKILLS ROW 2: TOOLS ===== -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma&theme=dark">
+</div>
+
+<br>
+
+<!-- ===== SKILLS ROW 3: DEVOPS & DATABASES ===== -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,aws,azure,mysql,postgres,redis,mongodb&theme=dark">
+</div>
+
+<br>
+
+<!-- ===== SKILLS ROW 4: NETWORKING ===== -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cloudflare,terraform,ansible,grafana,prometheus&theme=dark">
+</div>
+
+<!-- ===== DDoS / LOAD TESTING BLOCK ===== -->
+<div align="center">
+  <h3>  DDoS / LOAD TESTING</h3>
+  <p>
+    <strong>AUTHORIZED NETWORK STRESS TESTING</strong><br>
+    IP-BASED LOAD TESTING • TRAFFIC ANALYSIS • NETWORK TESTING<br>
+    SERVER STRESS TESTING • PERFORMANCE TESTING • DDoS RESILIENCE
+  </p>
+  <p><em>Test your own infrastructure before real users do.</em></p>
+</div>
+
+<br>
+
+<!-- ===== QUOTE ===== -->
+<div align="center">
   <blockquote>
-    <em>"The quieter you become, the more you can hear."</em><br>
-    — <strong>Infrastructure Engineer's Creed</strong>
+    <em>"A system is only as strong as its weakest link."</em>
   </blockquote>
 </div>
 
 <br>
 
-<!-- ===== SNAKE (ОБНОВЛЁННАЯ) ===== -->
+<!-- ===== SNAKE ===== -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 <br>
 
-<!-- ===== КОНТАКТЫ (С ИКОНКАМИ) ===== -->
+<!-- ===== CONTACTS ===== -->
 <div align="center">
-  <h2>📬 CONTACT</h2>
+  <h3>  CONTACT</h3>
   
-  <a href="https://t.me/celonq">
-    <img src="https://img.shields.io/badge/Telegram-@celonq-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a2e" />
-  </a>
-  <a href="https://discord.com/users/verd1ktt">
-    <img src="https://img.shields.io/badge/Discord-@verd1ktt-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" />
-  </a>
-  <a href="https://tiktok.com/@verdiktweb">
-    <img src="https://img.shields.io/badge/TikTok-@verdiktweb-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1a1a2e" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
-  </a>
+  <!-- TELEGRAM -->
+  <div>
+    <a href="https://t.me/celonq">
+      <img src="https://img.shields.io/badge/Telegram-@celonq-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
+  </div>
   
-  <br><br>
+  <!-- DISCORD -->
+  <div>
+    <a href="https://discord.com/users/verd1ktt">
+      <img src="https://img.shields.io/badge/Discord-@verd1ktt-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+  </div>
   
-  <!-- КАЛЕНДАРЬ АКТИВНОСТИ -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=verdikta7&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00ff88&line=00ff88&point=00ff88" width="90%" />
+  <!-- TIKTOK -->
+  <div>
+    <a href="https://tiktok.com/@verdiktweb">
+      <img src="https://img.shields.io/badge/TikTok-@verdiktweb-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+    </a>
+  </div>
 </div>
 
 <br>
 
-<!-- ===== ФУТЕР ===== -->
+<!-- ===== FOOTER ===== -->
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/ROLE-SYSTEM_ADMIN-blue?style=flat-square&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/ROLE-NETWORK_ENGINEER-orange?style=flat-square&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/ROLE-DEVOPS-ff69b4?style=flat-square&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/SECURITY-ETHICAL-red?style=flat-square&labelColor=1a1a2e" />
-  </p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=verdikta7&label=PROFILE+VIEWS&color=00ff88&style=flat-square" />
-    <img src="https://img.shields.io/github/followers/verdikta7?label=FOLLOWERS&style=flat-square&color=00ff88&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/github/stars/verdikta7?label=STARS&style=flat-square&color=ffd700&labelColor=1a1a2e" />
-  </p>
-
-  <br>
-  
-  <p>
-    <code>© 2026 — INFRASTRUCTURE IS CODE</code>
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square">
+    <img src="https://img.shields.io/badge/ROLE-SYSTEM%20ADMIN-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/ROLE-NETWORK%20ENGINEER-orange?style=flat-square">
   </p>
 </div>
