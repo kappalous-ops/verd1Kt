@@ -1,23 +1,11 @@
 <div align="center">
   <pre>
-       _nnnn_                   
-      GGGGMMb                      
-     @p~qp~~qMb                  
-     M|О||О) M|                     
-     @,----.JM|                      
-    JS^\__/  qKL                  
-   dZP        qKRb                        LINUXDOX
-   dZP          qKKb                  @celonq - telegram
-   fZP            SMMb
-   HZM            MMMM
-   FqM            MMMM
-   __| ".        |\dS"qML
-   |    `.       | `' \Zq
-  _)      \.___.,|     .'
-  \____   )MMMMMM|   .'
-       `-'       `--'
-'''
-
+██╗   ██╗███████╗██████╗ ██████╗ ██╗██╗  ██╗████████╗
+██║   ██║██╔════╝██╔══██╗██╔══██╗██║██║ ██╔╝╚══██╔══╝
+██║   ██║█████╗  ██████╔╝██║  ██║██║█████╔╝    ██║   
+╚██╗ ██╔╝██╔══╝  ██╔══██╗██║  ██║██║██╔═██╗    ██║   
+ ╚████╔╝ ███████╗██║  ██║██████╔╝██║██║  ██╗   ██║   
+  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝
   </pre>
 
   <img src="https://count.getloli.com/@verdikta7?name=verdikta7&theme=booru-lewd">
