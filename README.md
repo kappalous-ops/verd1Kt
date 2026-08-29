@@ -157,7 +157,7 @@
   <!-- TIKTOK -->
   <div>
     <a href="https://tiktok.com/@verdiktweb">
-      <img src="https://img.shields.io/badge/TikTok-@verdikta7-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+      <img src="https://img.shields.io/badge/TikTok-@verdiktweb-000000?style=for-the-badge&logo=tiktok&logoColor=white">
     </a>
   </div>
 </div>
